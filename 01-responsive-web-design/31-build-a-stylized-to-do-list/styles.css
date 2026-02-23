@@ -1,0 +1,24 @@
+a {
+  text-decoration: none;
+  color: steelblue;
+}
+
+a:link {
+  color: steelblue;
+}
+
+a:hover {
+  color: darkblue;
+}
+
+a:active {
+  color: red;
+}
+
+a:focus {
+  outline: 2px solid steelblue;
+}
+
+a:visited {
+  color: purple;
+}
