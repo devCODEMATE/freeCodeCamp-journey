@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JS Documentation</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <nav id="navbar">
+    <header>JS Documentation</header>
+
+    <a class="nav-link" href="#Introduction">Introduction</a>
+    <a class="nav-link" href="#What_you_should_already_know">What you should already know</a>
+    <a class="nav-link" href="#JavaScript_and_Java">JavaScript and Java</a>
+    <a class="nav-link" href="#Hello_world">Hello world</a>
+    <a class="nav-link" href="#Variables">Variables</a>
+    <a class="nav-link" href="#Declaring_variables">Declaring variables</a>
+    <a class="nav-link" href="#Variable_scope">Variable scope</a>
+    <a class="nav-link" href="#Global_variables">Global variables</a>
+    <a class="nav-link" href="#Constants">Constants</a>
+    <a class="nav-link" href="#Data_types">Data types</a>
+    <a class="nav-link" href="#if...else_statement">if...else statement</a>
+    <a class="nav-link" href="#while_statement">while statement</a>
+    <a class="nav-link" href="#Function_declarations">Function declarations</a>
+    <a class="nav-link" href="#Reference">Reference</a>
+  </nav>
+
+  <main id="main-doc">
+    <section class="main-section" id="Introduction">
+      <header>Introduction</header>
+      <p>JavaScript is a cross-platform, object-oriented scripting language. It is a small and lightweight language.</p>
+      <p>Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them.</p>
+      <p>JavaScript contains a standard library of objects, such as Array, Date, and Math, and a core set of language elements such as operators, control structures, and statements.</p>
+      <p>Core JavaScript can be extended for a variety of purposes by supplementing it with additional objects; for example:</p>
+      <ul>
+        <li>Client-side JavaScript extends the core language by supplying objects to control a browser and its DOM.</li>
+        <li>Server-side JavaScript extends the core language with objects relevant to running JavaScript on a server.</li>
+      </ul>
+      <code>/* JavaScript can run in the browser and on servers */</code>
+    </section>
+
+    <section class="main-section" id="What_you_should_already_know">
+      <header>What you should already know</header>
+      <p>This guide assumes you have the following basic background:</p>
+      <ul>
+        <li>A general understanding of the Internet and the World Wide Web (WWW).</li>
+        <li>Good working knowledge of HyperText Markup Language (HTML).</li>
+        <li>Some programming experience.</li>
+      </ul>
+      <p>If you are new to programming, try one of the tutorials linked on the main page about JavaScript.</p>
+      <code>// Prereqs: HTML + basic programming</code>
+    </section>
+
+    <section class="main-section" id="JavaScript_and_Java">
+      <header>JavaScript and Java</header>
+      <p>JavaScript and Java are similar in some ways but fundamentally different in some others.</p>
+      <p>The JavaScript language resembles Java but does not have Java's static typing and strong type checking.</p>
+      <p>JavaScript supports a runtime system based on a small number of data types representing numeric, Boolean, and string values.</p>
+      <p>JavaScript has a prototype-based object model instead of the more common class-based object model.</p>
+      <p>JavaScript is a very free-form language compared to Java.</p>
+      <code>const language = "JavaScript";</code>
+    </section>
+
+    <section class="main-section" id="Hello_world">
+      <header>Hello world</header>
+      <p>To get started with writing JavaScript, write your first "Hello world" code:</p>
+      <code>function greetMe(yourName) { alert("Hello " + yourName); }</code>
+      <code>greetMe("World");</code>
+      <p>Select the code and run it in your environment to see the result.</p>
+    </section>
+
+    <section class="main-section" id="Variables">
+      <header>Variables</header>
+      <p>You use variables as symbolic names for values in your application.</p>
+      <p>Identifiers must start with a letter, underscore (_), or dollar sign ($).</p>
+      <p>Subsequent characters can also be digits (0-9).</p>
+      <p>JavaScript is case sensitive.</p>
+      <code>let myValue = 42;</code>
+    </section>
+
+    <section class="main-section" id="Declaring_variables">
+      <header>Declaring variables</header>
+      <p>You can declare a variable in three ways:</p>
+      <ul>
+        <li>With the keyword <code>var</code>.</li>
+        <li>By assigning it a value (creates global in sloppy mode).</li>
+        <li>With the keyword <code>let</code>.</li>
+      </ul>
+      <code>var x = 42;</code>
+      <code>let y = 13;</code>
+    </section>
+
+    <section class="main-section" id="Variable_scope">
+      <header>Variable scope</header>
+      <p>A variable declared outside of any function is a global variable.</p>
+      <p>A variable declared within a function is a local variable.</p>
+      <p>Before ES2015, JavaScript did not have block scope.</p>
+      <code>if (true) { var x = 5; } console.log(x);</code>
+      <code>if (true) { let y = 5; } console.log(y);</code>
+    </section>
+
+    <section class="main-section" id="Global_variables">
+      <header>Global variables</header>
+      <p>Global variables are properties of the global object.</p>
+      <p>In web pages, the global object is <code>window</code>.</p>
+      <p>You can access globals via <code>window.variable</code>.</p>
+      <code>window.myGlobal = "hello";</code>
+    </section>
+
+    <section class="main-section" id="Constants">
+      <header>Constants</header>
+      <p>You can create a read-only, named constant with the <code>const</code> keyword.</p>
+      <p>A constant cannot change value through assignment or be re-declared.</p>
+      <code>const PI = 3.14;</code>
+      <code>const MY_OBJECT = {"key": "value"};</code>
+    </section>
+
+    <section class="main-section" id="Data_types">
+      <header>Data types</header>
+      <p>The latest ECMAScript standard defines seven data types.</p>
+      <ul>
+        <li>Boolean</li>
+        <li>null</li>
+        <li>undefined</li>
+        <li>Number</li>
+        <li>String</li>
+        <li>Symbol</li>
+        <li>Object</li>
+      </ul>
+      <code>const ok = true;</code>
+    </section>
+
+    <section class="main-section" id="if...else_statement">
+      <header>if...else statement</header>
+      <p>Use the if statement to execute a statement if a condition is true.</p>
+      <p>Use else to execute a statement if the condition is false.</p>
+      <code>if (condition) { statement_1; } else { statement_2; }</code>
+      <code>if ((x = y)) { /* avoid this pattern */ }</code>
+    </section>
+
+    <section class="main-section" id="while_statement">
+      <header>while statement</header>
+      <p>A while statement executes its statements as long as a condition evaluates to true.</p>
+      <code>while (condition) statement</code>
+      <code>var n = 0; var x = 0; while (n &lt; 3) { n++; x += n; }</code>
+      <ul>
+        <li>After first pass: n = 1, x = 1</li>
+        <li>After second pass: n = 2, x = 3</li>
+        <li>After third pass: n = 3, x = 6</li>
+      </ul>
+    </section>
+
+    <section class="main-section" id="Function_declarations">
+      <header>Function declarations</header>
+      <p>A function definition consists of the function keyword, followed by:</p>
+      <ul>
+        <li>The name of the function</li>
+        <li>A list of arguments</li>
+        <li>The function body in curly brackets</li>
+      </ul>
+      <code>function square(number) { return number * number; }</code>
+    </section>
+
+    <section class="main-section" id="Reference">
+      <header>Reference</header>
+      <p>All the documentation in this page is taken from MDN.</p>
+      <code>// Source: MDN Web Docs</code>
+    </section>
+  </main>
+</body>
+</html>
