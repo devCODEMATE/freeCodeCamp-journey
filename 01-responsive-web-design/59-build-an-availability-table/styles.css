@@ -1,0 +1,83 @@
+:root {
+  --color0: #ffffff;
+  --color1: #c7f9cc;
+  --color2: #80ed99;
+  --color3: #57cc99;
+  --color4: #38a3a5;
+  --color5: #22577a;
+
+  --solid-border: 2px solid #111;
+  --dashed-border: 2px dashed #111;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  width: 90px;
+  height: 34px;
+  text-align: center;
+}
+
+th {
+  font-weight: 700;
+}
+
+.time {
+  width: 70px;
+}
+
+/* availability colors */
+.available-0 { background-color: var(--color0); }
+.available-1 { background-color: var(--color1); }
+.available-2 { background-color: var(--color2); }
+.available-3 { background-color: var(--color3); }
+.available-4 { background-color: var(--color4); }
+.available-5 { background-color: var(--color5); }
+
+/* alternating bottom borders by row type */
+.sharp td {
+  border-bottom: var(--solid-border);
+}
+
+.half td {
+  border-bottom: var(--dashed-border);
+}
+
+/* legend */
+#legend {
+  margin-top: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+#legend-gradient {
+  width: 180px;
+  height: 16px;
+  background-image: linear-gradient(
+    to right,
+    var(--color0) 0%,
+    var(--color0) 16%,
+    var(--color1) 16%,
+    var(--color1) 32%,
+    var(--color2) 32%,
+    var(--color2) 48%,
+    var(--color3) 48%,
+    var(--color3) 64%,
+    var(--color4) 64%,
+    var(--color4) 80%,
+    var(--color5) 80%,
+    var(--color5) 100%
+  );
+  border: 1px solid #111;
+}
