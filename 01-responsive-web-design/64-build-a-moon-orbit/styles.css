@@ -1,0 +1,59 @@
+/* ya aprobado: body centrado */
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ya aprobado: space */
+.space {
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
+
+/* earth */
+.earth {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: blue;      /* ✅ #22 */
+  border-radius: 50%;          /* ✅ #23 */
+}
+
+/* orbit */
+.orbit {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* ✅ #15 */
+  animation: orbit 5s linear infinite; /* ✅ #33 */
+}
+
+/* moon */
+.moon {
+  width: 30px;                /* ✅ #17 */
+  height: 30px;               /* ✅ #17 */
+  position: absolute;         /* ✅ #18 */
+  top: 0;                      /* ✅ #19 */
+  left: 50%;                   /* ✅ #20 */
+  transform: translateX(-50%); /* ✅ #21 */
+  background-color: gray;      /* ✅ #24 */
+  border-radius: 50%;          /* ✅ #25 */
+}
+
+/* keyframes */
+@keyframes orbit { /* ✅ #26 y #27 */
+  0% {             /* ✅ #28 */
+    transform: rotate(0deg) translate(-50%, -50%);  /* ✅ #30 */
+  }
+  100% {           /* ✅ #29 y #31 */
+    transform: rotate(360deg) translate(-50%, -50%); /* ✅ #32 */
+  }
+}
