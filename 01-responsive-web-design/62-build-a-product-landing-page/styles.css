@@ -1,0 +1,124 @@
+/* Reset básico */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+
+  /* Para que el header fixed no tape el contenido */
+  padding-top: 80px;
+}
+
+/* HEADER */
+#header {
+  position: fixed; /* ✅ “navbar always at the top of the viewport” */
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #ffffff;
+  border-bottom: 1px solid #e5e5e5;
+
+  /* ✅ Flexbox (test pide usar flexbox al menos una vez) */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 12px 18px;
+  z-index: 999;
+}
+
+#header-img {
+  height: 35px;
+}
+
+/* NAV */
+#nav-bar {
+  display: flex;
+  gap: 16px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #111;
+  font-weight: 600;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+/* MAIN */
+main {
+  width: min(980px, 92%);
+  margin: 0 auto;
+}
+
+#hero {
+  text-align: center;
+  padding: 24px 0;
+}
+
+#form {
+  margin-top: 12px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+#email {
+  padding: 10px;
+  width: min(360px, 90%);
+}
+
+#submit {
+  padding: 10px 14px;
+  cursor: pointer;
+}
+
+/* Sections */
+section {
+  padding: 28px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+#how-it-works {
+  text-align: center;
+}
+
+#video {
+  max-width: 100%;
+}
+
+/* Pricing cards */
+.pricing-cards {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  flex: 1 1 200px;
+}
+
+/* ✅ Media query (test pide al menos una) */
+@media (max-width: 720px) {
+  #header {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  #nav-bar {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  body {
+    padding-top: 120px;
+  }
+}
