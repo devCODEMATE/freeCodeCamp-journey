@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flor | Personal Portfolio</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <!-- Required: navbar with id="navbar" -->
+    <nav id="navbar">
+      <a class="brand" href="#welcome-section" aria-label="Go to top">
+        <span class="dot"></span> Flor
+      </a>
+
+      <div class="nav-links">
+        <a href="#welcome-section">Home</a>
+        <a href="#project-section">Projects</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </nav>
+
+    <!-- Required: welcome section with id="welcome-section" and an h1 with text -->
+    <section id="welcome-section">
+      <div class="container hero">
+        <p class="kicker">Creative Technologist • Marketing + AI</p>
+        <h1>Hi, I’m Flor — I build clean web experiences.</h1>
+        <p class="subhead">
+          HTML, CSS, JavaScript. Learning by shipping projects on freeCodeCamp and GitHub.
+        </p>
+
+        <div class="cta">
+          <a class="btn primary" href="#project-section">See projects</a>
+          <!-- Required: profile-link opens in new tab -->
+          <a
+            id="profile-link"
+            class="btn ghost"
+            href="https://github.com/devCODEMATE"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>
+        </div>
+
+        <div class="badges" aria-label="Key skills">
+          <span class="badge">Responsive Design</span>
+          <span class="badge">CSS Layout</span>
+          <span class="badge">UI/UX mindset</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Required: projects section with id="project-section" -->
+    <section id="project-section">
+      <div class="container">
+        <header class="section-head">
+          <h2>Projects</h2>
+          <p>Some work from the Responsive Web Design track + personal experiments.</p>
+        </header>
+
+        <div class="grid">
+          <!-- Required: at least one element with class="project-tile" to hold a project -->
+          <article class="project-tile">
+            <h3>City Skyline</h3>
+            <p>Gradients, positioning, and layers.</p>
+            <a class="project-link" href="#" target="_blank" rel="noreferrer">View</a>
+          </article>
+
+          <article class="project-tile">
+            <h3>Flappy Penguin</h3>
+            <p>CSS shapes + animation fundamentals.</p>
+            <a class="project-link" href="#" target="_blank" rel="noreferrer">View</a>
+          </article>
+
+          <article class="project-tile">
+            <h3>Magazine Layout</h3>
+            <p>Grid layout + responsive tweaks.</p>
+            <a class="project-link" href="#" target="_blank" rel="noreferrer">View</a>
+          </article>
+
+          <article class="project-tile">
+            <h3>Availability Table</h3>
+            <p>Tables + CSS variables.</p>
+            <a class="project-link" href="#" target="_blank" rel="noreferrer">View</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact">
+      <div class="container contact">
+        <h2>Contact</h2>
+        <p>
+          Want to collaborate or chat? Ping me on GitHub or connect on LinkedIn.
+        </p>
+
+        <div class="cta">
+          <a class="btn ghost" href="https://www.linkedin.com" target="_blank" rel="noreferrer">LinkedIn</a>
+          <a class="btn ghost" href="mailto:hello@example.com">Email</a>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="container">
+        <small>© <span id="year"></span> Flor — Built with HTML & CSS.</small>
+      </div>
+    </footer>
+
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+  </body>
+</html>
