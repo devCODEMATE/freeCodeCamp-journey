@@ -25,4 +25,6 @@ These exercises help reinforce HTML and CSS fundamentals through hands-on practi
 
 Este repositorio se irá actualizando a medida que avance en los nuevos contenidos del currículum.
 
-This section will continue to be updated as I progress through the new curriculum content.
+This section will continue to be updated as I progress through the new curriculum content. 
+
+CodeMate - Building the future, one line at a time 🚀
