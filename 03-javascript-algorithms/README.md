@@ -16,13 +16,17 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 02. Build JavaScript Trivia Bot
 - 📁 [Ver ejercicio](./02-build-javascript-trivia-bot)
 
+### 03. Build Sentence Maker
+- 📁 [Ver ejercicio](./03-build-sentence-maker)
+
 ---
 
 ## 🚀 Progreso | Progress
 
 - [x] 01. Greeting Bot
 - [x] 02. JavaScript Trivia Bot
-- [ ] 03. Próximo ejercicio
+- [x] 03. Sentence Maker
+- [ ] 04. Próximo ejercicio
 
 ---
 
