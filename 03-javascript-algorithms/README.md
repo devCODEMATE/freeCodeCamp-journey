@@ -1,3 +1,33 @@
-# JavaScript Algorithms & Data Structures
+# 🟡 JavaScript Algorithms & Data Structures
 
-Ejercicios del curriculum de freeCodeCamp en JavaScript.
+## 📌 Descripción | Description
+
+Este módulo contiene ejercicios del curriculum de JavaScript de freeCodeCamp.
+
+This module contains exercises from the freeCodeCamp JavaScript curriculum.
+
+---
+
+## 📂 Ejercicios | Exercises
+
+### 01. Build Greeting Bot
+- 📁 [Ver ejercicio](./01-build-greeting-bot)
+
+### 02. Build JavaScript Trivia Bot
+- 📁 [Ver ejercicio](./02-build-javascript-trivia-bot)
+
+---
+
+## 🚀 Progreso | Progress
+
+- [x] 01. Greeting Bot
+- [x] 02. JavaScript Trivia Bot
+- [ ] 03. Próximo ejercicio
+
+---
+
+## 🧠 Objetivo | Goal
+
+Practicar lógica, estructuras y fundamentos de JavaScript para construir una base sólida en programación.
+
+Practice logic, structures, and JavaScript fundamentals to build a strong programming foundation.
