@@ -19,6 +19,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 03. Build Sentence Maker
 - 📁 [Ver ejercicio](./03-build-sentence-maker)
 
+### 04. Build Teacher Chatbot
+- 📁 [Ver ejercicio](./04-build-teacher-chatbot)
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -26,7 +29,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 01. Greeting Bot
 - [x] 02. JavaScript Trivia Bot
 - [x] 03. Sentence Maker
-- [ ] 04. Próximo ejercicio
+- [x] 04. Teacher Chatbot
+- [ ] 05. Próximo ejercicio
 
 ---
 
