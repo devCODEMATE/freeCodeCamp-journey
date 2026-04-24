@@ -25,6 +25,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 05. Build String Inspector
 - 📁 [Ver ejercicio](./05-build-string-inspector)
 
+### 06. Build String Formatter
+- 📁 [Ver ejercicio](./06-build-string-formatter)
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -34,7 +37,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 03. Sentence Maker
 - [x] 04. Teacher Chatbot
 - [x] 05. String Inspector
-- [ ] 06. Próximo ejercicio
+- [x] 06. String Formatter
+- [ ] 07. Próximo ejercicio
 
 ---
 
