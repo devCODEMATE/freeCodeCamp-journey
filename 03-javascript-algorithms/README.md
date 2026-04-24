@@ -22,6 +22,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 04. Build Teacher Chatbot
 - 📁 [Ver ejercicio](./04-build-teacher-chatbot)
 
+### 05. Build String Inspector
+- 📁 [Ver ejercicio](./05-build-string-inspector)
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -30,7 +33,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 02. JavaScript Trivia Bot
 - [x] 03. Sentence Maker
 - [x] 04. Teacher Chatbot
-- [ ] 05. Próximo ejercicio
+- [x] 05. String Inspector
+- [ ] 06. Próximo ejercicio
 
 ---
 
