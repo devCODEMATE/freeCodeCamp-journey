@@ -28,6 +28,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 06. Build String Formatter
 - 📁 [Ver ejercicio](./06-build-string-formatter)
 
+### 07. Build String Transformer
+- 📁 [Ver ejercicio](./07-build-string-transformer)
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -38,8 +41,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 04. Teacher Chatbot
 - [x] 05. String Inspector
 - [x] 06. String Formatter
-- [ ] 07. Próximo ejercicio
-
+- [x] 07. String Transformer
+- [ ] 08. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
