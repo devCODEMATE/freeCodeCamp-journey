@@ -37,6 +37,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 09. Debug Increment and Decrement Operator Errors in a Buggy App
 - 📁 [Ver ejercicio](./09-debug-increment-decrement-errors)
 
+### 10. Build a Logic Checker App
+- 📁 [Ver ejercicio](./10-build-logic-checker-app)
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -50,7 +53,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 07. String Transformer
 - [x] 08. Type Coercion Debugging
 - [x] 09. Increment and Decrement Debugging
-- [ ] 10. Próximo ejercicio
+- [x] 10. Logic Checker App
+- [ ] 11. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
