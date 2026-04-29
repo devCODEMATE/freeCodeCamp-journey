@@ -34,6 +34,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 08. Debug Type Coercion Errors in a Buggy App
 - 📁 [Ver ejercicio](./08-debug-type-coercion-errors)
 
+- ### 09. Debug Increment and Decrement Operator Errors in a Buggy App
+- 📁 [Ver ejercicio](./09-debug-increment-decrement-errors)
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -46,7 +49,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 06. String Formatter
 - [x] 07. String Transformer
 - [x] 08. Type Coercion Debugging
-- [ ] 09. Próximo ejercicio
+- [x] 09. Increment and Decrement Debugging
+- [ ] 10. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
