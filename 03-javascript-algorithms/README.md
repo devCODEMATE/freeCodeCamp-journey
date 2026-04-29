@@ -31,6 +31,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 07. Build String Transformer
 - 📁 [Ver ejercicio](./07-build-string-transformer)
 
+### 08. Debug Type Coercion Errors in a Buggy App
+- 📁 [Ver ejercicio](./08-debug-type-coercion-errors)
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -42,7 +45,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 05. String Inspector
 - [x] 06. String Formatter
 - [x] 07. String Transformer
-- [ ] 08. Próximo ejercicio
+- [x] 08. Type Coercion Debugging
+- [ ] 09. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
