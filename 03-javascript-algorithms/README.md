@@ -34,7 +34,7 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 08. Debug Type Coercion Errors in a Buggy App
 - 📁 [Ver ejercicio](./08-debug-type-coercion-errors)
 
-- ### 09. Debug Increment and Decrement Operator Errors in a Buggy App
+### 09. Debug Increment and Decrement Operator Errors in a Buggy App
 - 📁 [Ver ejercicio](./09-debug-increment-decrement-errors)
 
 ---
