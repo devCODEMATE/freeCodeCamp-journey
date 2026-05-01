@@ -40,6 +40,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 10. Build a Logic Checker App
 - 📁 [Ver ejercicio](./10-build-logic-checker-app)
 
+### 11. Build a Mathbot
+- 📁 [Ver ejercicio](./11-build-mathbot)
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -54,7 +57,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 08. Type Coercion Debugging
 - [x] 09. Increment and Decrement Debugging
 - [x] 10. Logic Checker App
-- [ ] 11. Próximo ejercicio
+- [x] 11. Mathbot
+- [ ] 12. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
