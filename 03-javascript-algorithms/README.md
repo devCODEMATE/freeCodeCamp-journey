@@ -43,6 +43,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 11. Build a Mathbot
 - 📁 [Ver ejercicio](./11-build-mathbot)
 
+### 12. Build a Fortune Teller
+- 📁 [Ver ejercicio](./12-build-fortune-teller)
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -58,7 +61,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 09. Increment and Decrement Debugging
 - [x] 10. Logic Checker App
 - [x] 11. Mathbot
-- [ ] 12. Próximo ejercicio
+- [x] 12. Fortune Teller
+- [ ] 13. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
