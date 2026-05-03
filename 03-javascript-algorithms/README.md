@@ -54,7 +54,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 15. Build an Email Masker
 - 📁 [Ver ejercicio](./15-build-email-masker)
-  
+
+### 16. Build a Loan Qualification Checker
+- 📁 [Ver ejercicio](./16-build-loan-qualification-checker)
 ---
 
 ## 🚀 Progreso | Progress
@@ -74,7 +76,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 13. Calculator
 - [x] 14. Boolean Check Function
 - [x] 15. Email Masker
-- [ ] 16. Próximo ejercicio
+- [x] 16. Loan Qualification Checker
+- [ ] 17. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
