@@ -46,6 +46,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 12. Build a Fortune Teller
 - 📁 [Ver ejercicio](./12-build-fortune-teller)
 
+### 13. Build a Calculator
+- 📁 [Ver ejercicio](./13-build-a-calculator)
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -62,7 +65,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 10. Logic Checker App
 - [x] 11. Mathbot
 - [x] 12. Fortune Teller
-- [ ] 13. Próximo ejercicio
+- [x] 13. Calculator
+- [ ] 14. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
