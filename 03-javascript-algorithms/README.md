@@ -57,6 +57,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 16. Build a Loan Qualification Checker
 - 📁 [Ver ejercicio](./16-build-loan-qualification-checker)
+
+### 17. Build a Card Counting Assistant
+- 📁 [Ver ejercicio](./17-build-card-counting-assistant)
 ---
 
 ## 🚀 Progreso | Progress
@@ -77,7 +80,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 14. Boolean Check Function
 - [x] 15. Email Masker
 - [x] 16. Loan Qualification Checker
-- [ ] 17. Próximo ejercicio
+- [x] 17. Card Counting Assistant
+- [ ] 18. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
