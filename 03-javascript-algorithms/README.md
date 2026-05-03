@@ -51,6 +51,10 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 14. Build a Boolean Check Function
 - 📁 [Ver ejercicio](./14-build-boolean-check-function)
+
+### 15. Build an Email Masker
+- 📁 [Ver ejercicio](./15-build-email-masker)
+  
 ---
 
 ## 🚀 Progreso | Progress
@@ -69,7 +73,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 12. Fortune Teller
 - [x] 13. Calculator
 - [x] 14. Boolean Check Function
-- [ ] 15. Próximo ejercicio
+- [x] 15. Email Masker
+- [ ] 16. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
