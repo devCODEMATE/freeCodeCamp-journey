@@ -61,7 +61,10 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 17. Build a Celsius to Fahrenheit Converter
 - 📁 [Ver ejercicio](./17-build-celsius-to-fahrenheit-converter)
 
+### 18. Build a Card Counting Assistant
+- 📁 [Ver ejercicio](./18-build-card-counting-assistant)
 
+  
 ---
 
 ## 🚀 Progreso | Progress
@@ -83,7 +86,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 15. Email Masker
 - [x] 16. Loan Qualification Checker
 - [x] 17. Celsius to Fahrenheit Converter
-- [ ] 18. Próximo ejercicio
+- [x] 18. Card Counting Assistant
+- [ ] 19. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
