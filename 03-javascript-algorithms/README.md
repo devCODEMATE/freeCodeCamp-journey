@@ -66,6 +66,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 19. Build a Leap Year Calculator
 - 📁 [Ver ejercicio](./19-build-leap-year-calculator)
+
+### 20. Implement the Truncate String Algorithm
+- 📁 [Ver ejercicio](./20-implement-truncate-string-algorithm)
   
 ---
 
@@ -90,7 +93,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 17. Celsius to Fahrenheit Converter
 - [x] 18. Card Counting Assistant
 - [x] 19. Leap Year Calculator
-- [ ] 20. Próximo ejercicio
+- [x] 20. Truncate String Algorithm
+- [ ] 21. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
