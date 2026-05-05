@@ -64,6 +64,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 18. Build a Card Counting Assistant
 - 📁 [Ver ejercicio](./18-build-card-counting-assistant)
 
+### 19. Build a Leap Year Calculator
+- 📁 [Ver ejercicio](./19-build-leap-year-calculator)
   
 ---
 
@@ -87,7 +89,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 16. Loan Qualification Checker
 - [x] 17. Celsius to Fahrenheit Converter
 - [x] 18. Card Counting Assistant
-- [ ] 19. Próximo ejercicio
+- [x] 19. Leap Year Calculator
+- [ ] 20. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
