@@ -69,7 +69,11 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 20. Implement the Truncate String Algorithm
 - 📁 [Ver ejercicio](./20-implement-truncate-string-algorithm)
-  
+
+### 21. Build a Confirm the Ending Tool
+- 📁 [Ver ejercicio](./21-build-confirm-the-ending-tool)
+
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -94,7 +98,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 18. Card Counting Assistant
 - [x] 19. Leap Year Calculator
 - [x] 20. Truncate String Algorithm
-- [ ] 21. Próximo ejercicio
+- [x] 21. Confirm the Ending Tool
+- [ ] 22. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
