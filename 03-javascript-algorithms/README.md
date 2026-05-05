@@ -58,8 +58,10 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 16. Build a Loan Qualification Checker
 - 📁 [Ver ejercicio](./16-build-loan-qualification-checker)
 
-### 17. Build a Card Counting Assistant
-- 📁 [Ver ejercicio](./17-build-card-counting-assistant)
+### 17. Build a Celsius to Fahrenheit Converter
+- 📁 [Ver ejercicio](./17-build-celsius-to-fahrenheit-converter)
+
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -80,7 +82,7 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 14. Boolean Check Function
 - [x] 15. Email Masker
 - [x] 16. Loan Qualification Checker
-- [x] 17. Card Counting Assistant
+- [x] 17. Celsius to Fahrenheit Converter
 - [ ] 18. Próximo ejercicio
 ---
 
