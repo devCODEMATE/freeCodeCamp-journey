@@ -73,7 +73,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 21. Build a Confirm the Ending Tool
 - 📁 [Ver ejercicio](./21-build-confirm-the-ending-tool)
 
-
+### 22. Build a Shopping List
+- 📁 [Ver ejercicio](./22-build-shopping-list)
 ---
 
 ## 🚀 Progreso | Progress
@@ -99,7 +100,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 19. Leap Year Calculator
 - [x] 20. Truncate String Algorithm
 - [x] 21. Confirm the Ending Tool
-- [ ] 22. Próximo ejercicio
+- [x] 22. Shopping List
+- [ ] 23. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
