@@ -79,6 +79,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 23. Build a Lunch Picker Program
 - 📁 [Ver ejercicio](./23-build-lunch-picker-program)
 
+### 24. Build a Golf Score Translator
+- 📁 [Ver ejercicio](./24-build-golf-score-translator)
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -106,7 +109,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 21. Confirm the Ending Tool
 - [x] 22. Shopping List
 - [x] 23. Lunch Picker Program
-- [ ] 24. Próximo ejercicio
+- [x] 24. Golf Score Translator
+- [ ] 25. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
