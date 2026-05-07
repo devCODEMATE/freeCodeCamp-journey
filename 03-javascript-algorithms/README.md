@@ -75,6 +75,10 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 22. Build a Shopping List
 - 📁 [Ver ejercicio](./22-build-shopping-list)
+
+### 23. Build a Lunch Picker Program
+- 📁 [Ver ejercicio](./23-build-lunch-picker-program)
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -101,7 +105,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 20. Truncate String Algorithm
 - [x] 21. Confirm the Ending Tool
 - [x] 22. Shopping List
-- [ ] 23. Próximo ejercicio
+- [x] 23. Lunch Picker Program
+- [ ] 24. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
