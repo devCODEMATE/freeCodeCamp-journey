@@ -82,6 +82,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 24. Build a Golf Score Translator
 - 📁 [Ver ejercicio](./24-build-golf-score-translator)
 
+### 25. Build a Wildlife Tracker
+- 📁 [Ver ejercicio](./25-build-wildlife-tracker)
 ---
 
 ## 🚀 Progreso | Progress
@@ -110,7 +112,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 22. Shopping List
 - [x] 23. Lunch Picker Program
 - [x] 24. Golf Score Translator
-- [ ] 25. Próximo ejercicio
+- [x] 25. Wildlife Tracker
+- [ ] 26. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
