@@ -84,6 +84,11 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 25. Build a Wildlife Tracker
 - 📁 [Ver ejercicio](./25-build-wildlife-tracker)
+
+### 26. Build a Cargo Manifest Validator
+- 📁 [Ver ejercicio](./26-build-cargo-manifest-validator)
+
+  
 ---
 
 ## 🚀 Progreso | Progress
@@ -113,7 +118,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 23. Lunch Picker Program
 - [x] 24. Golf Score Translator
 - [x] 25. Wildlife Tracker
-- [ ] 26. Próximo ejercicio
+- [x] 26. Cargo Manifest Validator
+- [ ] 27. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
