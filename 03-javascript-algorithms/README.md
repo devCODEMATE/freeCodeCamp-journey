@@ -88,6 +88,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 26. Build a Cargo Manifest Validator
 - 📁 [Ver ejercicio](./26-build-cargo-manifest-validator)
 
+### 27. Build a Recipe Tracker
+- 📁 [Ver ejercicio](./27-build-recipe-tracker)
   
 ---
 
@@ -119,7 +121,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 24. Golf Score Translator
 - [x] 25. Wildlife Tracker
 - [x] 26. Cargo Manifest Validator
-- [ ] 27. Próximo ejercicio
+- [x] 27. Recipe Tracker
+- [ ] 28. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
