@@ -94,6 +94,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 28. Build a Quiz Game
 - 📁 [Ver ejercicio](./28-build-quiz-game)
 
+### 29. Build a Record Collection
+- 📁 [Ver ejercicio](./29-build-record-collection)
 
 ---
 
@@ -127,7 +129,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 26. Cargo Manifest Validator
 - [x] 27. Recipe Tracker
 - [x] 28. Quiz Game
-- [ ] 29. Próximo ejercicio
+- [x] 29. Record Collection
+- [ ] 30. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
