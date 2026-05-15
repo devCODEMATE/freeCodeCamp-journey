@@ -90,7 +90,11 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 27. Build a Recipe Tracker
 - 📁 [Ver ejercicio](./27-build-recipe-tracker)
-  
+
+### 28. Build a Quiz Game
+- 📁 [Ver ejercicio](./28-build-quiz-game)
+
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -122,7 +126,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 25. Wildlife Tracker
 - [x] 26. Cargo Manifest Validator
 - [x] 27. Recipe Tracker
-- [ ] 28. Próximo ejercicio
+- [x] 28. Quiz Game
+- [ ] 29. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
