@@ -100,7 +100,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 30. Build a Word Counter
 - 📁 [Ver ejercicio](./30-build-word-counter)
 
-
+### 31. Build a Sentence Analyzer
+- 📁 [Ver ejercicio](./31-build-sentence-analyzer)
 ---
 
 ## 🚀 Progreso | Progress
@@ -135,7 +136,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 28. Quiz Game
 - [x] 29. Record Collection
 - [x] 30. Word Counter
-- [ ] 31. Próximo ejercicio
+- [x] 31. Sentence Analyzer
+- [ ] 32. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
