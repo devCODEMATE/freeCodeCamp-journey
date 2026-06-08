@@ -97,6 +97,10 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 29. Build a Record Collection
 - 📁 [Ver ejercicio](./29-build-record-collection)
 
+### 30. Build a Word Counter
+- 📁 [Ver ejercicio](./30-build-word-counter)
+
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -130,7 +134,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 27. Recipe Tracker
 - [x] 28. Quiz Game
 - [x] 29. Record Collection
-- [ ] 30. Próximo ejercicio
+- [x] 30. Word Counter
+- [ ] 31. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
