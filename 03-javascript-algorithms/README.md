@@ -117,6 +117,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 36. Mutations Algorithm
 - 📁 [Ver ejercicio](./36-mutations-algorithm)
+
+### 37. Implement the Chunky Monkey Algorithm
+- 📁 [Ver ejercicio](./37-chunky-monkey-algorithm)
 ---
 
 ## 🚀 Progreso | Progress
@@ -157,7 +160,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 34. Longest Word Finder App
 - [x] 35. Factorial Calculator
 - [x] 36. Mutations Algorithm
-- [ ] 37. Próximo ejercicio
+- [x] 37. Chunky Monkey Algorithm
+- [ ] 38. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
