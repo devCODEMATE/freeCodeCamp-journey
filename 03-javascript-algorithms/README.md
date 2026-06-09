@@ -114,6 +114,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 35. Build a Factorial Calculator
 - 📁 [Ver ejercicio](./35-build-factorial-calculator)
+
+### 36. Mutations Algorithm
+- 📁 [Ver ejercicio](./36-mutations-algorithm)
 ---
 
 ## 🚀 Progreso | Progress
@@ -153,7 +156,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 33. Heritage Library Catalog
 - [x] 34. Longest Word Finder App
 - [x] 35. Factorial Calculator
-- [ ] 36. Próximo ejercicio
+- [x] 36. Mutations Algorithm
+- [ ] 37. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
