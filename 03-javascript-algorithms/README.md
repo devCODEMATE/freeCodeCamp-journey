@@ -108,6 +108,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 33. Build a Heritage Library Catalog
 - 📁 [Ver ejercicio](./33-build-heritage-library-catalog)
+
+### 34. Build a Longest Word Finder App
+- 📁 [Ver ejercicio](./34-build-longest-word-finder-app)
 ---
 
 ## 🚀 Progreso | Progress
@@ -145,7 +148,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 31. Sentence Analyzer
 - [x] 32. Space Mission Roster
 - [x] 33. Heritage Library Catalog
-- [ ] 34. Próximo ejercicio
+- [x] 34. Longest Word Finder App
+- [ ] 35. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
