@@ -105,6 +105,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 32. Build a Space Mission Roster
 - 📁 [Ver ejercicio](./32-build-space-mission-roster)
+
+### 33. Build a Heritage Library Catalog
+- 📁 [Ver ejercicio](./33-build-heritage-library-catalog)
 ---
 
 ## 🚀 Progreso | Progress
@@ -141,7 +144,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 30. Word Counter
 - [x] 31. Sentence Analyzer
 - [x] 32. Space Mission Roster
-- [ ] 33. Próximo ejercicio
+- [x] 33. Heritage Library Catalog
+- [ ] 34. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
