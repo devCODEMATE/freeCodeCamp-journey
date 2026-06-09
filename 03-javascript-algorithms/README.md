@@ -111,6 +111,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 34. Build a Longest Word Finder App
 - 📁 [Ver ejercicio](./34-build-longest-word-finder-app)
+
+### 35. Build a Factorial Calculator
+- 📁 [Ver ejercicio](./35-build-factorial-calculator)
 ---
 
 ## 🚀 Progreso | Progress
@@ -149,7 +152,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 32. Space Mission Roster
 - [x] 33. Heritage Library Catalog
 - [x] 34. Longest Word Finder App
-- [ ] 35. Próximo ejercicio
+- [x] 35. Factorial Calculator
+- [ ] 36. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
