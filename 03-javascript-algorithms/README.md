@@ -120,6 +120,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 37. Implement the Chunky Monkey Algorithm
 - 📁 [Ver ejercicio](./37-chunky-monkey-algorithm)
+
+### 38. Build a Profile Lookup
+- 📁 [Ver ejercicio](./38-build-profile-lookup)
 ---
 
 ## 🚀 Progreso | Progress
@@ -161,7 +164,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 35. Factorial Calculator
 - [x] 36. Mutations Algorithm
 - [x] 37. Chunky Monkey Algorithm
-- [ ] 38. Próximo ejercicio
+- [x] 38. Profile Lookup
+- [ ] 39. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
