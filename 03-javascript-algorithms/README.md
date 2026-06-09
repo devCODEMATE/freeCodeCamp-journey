@@ -102,6 +102,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 31. Build a Sentence Analyzer
 - 📁 [Ver ejercicio](./31-build-sentence-analyzer)
+
+### 32. Build a Space Mission Roster
+- 📁 [Ver ejercicio](./32-build-space-mission-roster)
 ---
 
 ## 🚀 Progreso | Progress
@@ -137,7 +140,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 29. Record Collection
 - [x] 30. Word Counter
 - [x] 31. Sentence Analyzer
-- [ ] 32. Próximo ejercicio
+- [x] 32. Space Mission Roster
+- [ ] 33. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
