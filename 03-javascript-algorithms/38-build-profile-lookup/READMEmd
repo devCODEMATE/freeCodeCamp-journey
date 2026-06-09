@@ -1,0 +1,51 @@
+# 👤 Profile Lookup
+
+## 🇪🇸 Español
+
+Este es el ejercicio número 38 del módulo de JavaScript en freeCodeCamp.
+
+El objetivo fue practicar la búsqueda de información dentro de una colección de objetos utilizando funciones, loops y acceso a propiedades.
+
+### Conceptos practicados
+- Objetos
+- Arrays de objetos
+- Loops (`for`)
+- Condicionales
+- Acceso dinámico a propiedades
+- Valores de retorno
+
+### Lo que aprendí
+- Recorrer una colección de objetos.
+- Buscar elementos según una condición.
+- Acceder a propiedades mediante variables.
+- Devolver mensajes personalizados cuando no se encuentra información.
+- Trabajar con estructuras de datos más cercanas a escenarios reales.
+
+---
+
+## 🇺🇸 English
+
+This is exercise number 38 from the JavaScript module in freeCodeCamp.
+
+The goal was to practice searching information within a collection of objects using functions, loops, and property access.
+
+### Concepts practiced
+- Objects
+- Arrays of objects
+- Loops (`for`)
+- Conditionals
+- Dynamic property access
+- Return values
+
+### What I learned
+- Iterate through a collection of objects.
+- Search for elements based on a condition.
+- Access properties using variables.
+- Return custom messages when information is not found.
+- Work with data structures closer to real-world scenarios.
+
+---
+
+## 📁 Archivo | File
+
+- `script.js`
