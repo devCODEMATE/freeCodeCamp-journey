@@ -136,6 +136,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 42. Build a Smart Pantry Restocker
 - 📁 [Ver ejercicio](./42-build-smart-pantry-restocker)
 
+### 43. Build a Proofreading Tool
+- 📁 [Ver ejercicio](./43-build-proofreading-tool)
+
 
 ---
 
@@ -183,7 +186,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 40. Festival Crowd Flow Simulator
 - [x] 41. Missing Letter Detector
 - [x] 42. Smart Pantry Restocker
-- [ ] 43. Próximo ejercicio
+- [x] 43. Proofreading Tool
+- [ ] 44. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
