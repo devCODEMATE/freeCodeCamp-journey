@@ -130,6 +130,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 40. Build a Festival Crowd Flow Simulator
 - 📁 [Ver ejercicio](./40-build-festival-crowd-flow-simulator)
 
+### 41. Build a Missing Letter Detector
+- 📁 [Ver ejercicio](./41-build-missing-letter-detector)
+
 
 ---
 
@@ -175,7 +178,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 38. Profile Lookup
 - [x] 39. String Repeating Function
 - [x] 40. Festival Crowd Flow Simulator
-- [ ] 41. Próximo ejercicio
+- [x] 41. Missing Letter Detector
+- [ ] 42. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
