@@ -127,6 +127,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 39. Build a String Repeating Function
 - 📁 [Ver ejercicio](./39-build-string-repeating-function)
 
+### 40. Build a Festival Crowd Flow Simulator
+- 📁 [Ver ejercicio](./40-build-festival-crowd-flow-simulator)
+
 
 ---
 
@@ -171,7 +174,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 37. Chunky Monkey Algorithm
 - [x] 38. Profile Lookup
 - [x] 39. String Repeating Function
-- [ ] 40. Próximo ejercicio
+- [x] 40. Festival Crowd Flow Simulator
+- [ ] 41. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
