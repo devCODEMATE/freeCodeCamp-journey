@@ -133,6 +133,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 41. Build a Missing Letter Detector
 - 📁 [Ver ejercicio](./41-build-missing-letter-detector)
 
+### 42. Build a Smart Pantry Restocker
+- 📁 [Ver ejercicio](./42-build-smart-pantry-restocker)
+
 
 ---
 
@@ -179,7 +182,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 39. String Repeating Function
 - [x] 40. Festival Crowd Flow Simulator
 - [x] 41. Missing Letter Detector
-- [ ] 42. Próximo ejercicio
+- [x] 42. Smart Pantry Restocker
+- [ ] 43. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
