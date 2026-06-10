@@ -123,6 +123,11 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 38. Build a Profile Lookup
 - 📁 [Ver ejercicio](./38-build-profile-lookup)
+
+### 39. Build a String Repeating Function
+- 📁 [Ver ejercicio](./39-build-string-repeating-function)
+
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -165,7 +170,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 36. Mutations Algorithm
 - [x] 37. Chunky Monkey Algorithm
 - [x] 38. Profile Lookup
-- [ ] 39. Próximo ejercicio
+- [x] 39. String Repeating Function
+- [ ] 40. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
