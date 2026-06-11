@@ -145,6 +145,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 45. Build the Largest Number Finder
 - 📁 [Ver ejercicio](./45-build-largest-number-finder)
 
+### 46. Build a First Element Finder
+- 📁 [Ver ejercicio](./46-build-first-element-finder)
 ---
 
 ## 🚀 Progreso | Progress
@@ -194,7 +196,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 43. Proofreading Tool
 - [x] 44. String Inverter
 - [x] 45. Largest Number Finder
-- [ ] 46. Próximo ejercicio
+- [x] 46. First Element Finder
+- [ ] 47. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
