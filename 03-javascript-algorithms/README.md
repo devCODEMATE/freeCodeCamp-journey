@@ -142,6 +142,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 44. Build a String Inverter
 - 📁 [Ver ejercicio](./44-build-string-inverter)
 
+### 45. Build the Largest Number Finder
+- 📁 [Ver ejercicio](./45-build-largest-number-finder)
 
 ---
 
@@ -191,7 +193,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 42. Smart Pantry Restocker
 - [x] 43. Proofreading Tool
 - [x] 44. String Inverter
-- [ ] 45. Próximo ejercicio
+- [x] 45. Largest Number Finder
+- [ ] 46. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
