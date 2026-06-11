@@ -139,6 +139,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 43. Build a Proofreading Tool
 - 📁 [Ver ejercicio](./43-build-proofreading-tool)
 
+### 44. Build a String Inverter
+- 📁 [Ver ejercicio](./44-build-string-inverter)
+
 
 ---
 
@@ -187,7 +190,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 41. Missing Letter Detector
 - [x] 42. Smart Pantry Restocker
 - [x] 43. Proofreading Tool
-- [ ] 44. Próximo ejercicio
+- [x] 44. String Inverter
+- [ ] 45. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
