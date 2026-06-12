@@ -147,6 +147,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 46. Build a First Element Finder
 - 📁 [Ver ejercicio](./46-build-first-element-finder)
+
+### 47. Implement the Slice and Splice Algorithm
+- 📁 [Ver ejercicio](./47-slice-and-splice-algorithm)
 ---
 
 ## 🚀 Progreso | Progress
@@ -197,7 +200,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 44. String Inverter
 - [x] 45. Largest Number Finder
 - [x] 46. First Element Finder
-- [ ] 47. Próximo ejercicio
+- [x] 47. Slice and Splice Algorithm
+- [ ] 48. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
