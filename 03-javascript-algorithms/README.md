@@ -153,6 +153,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 48. Build a Pyramid Generator
 - 📁 [Ver ejercicio](./48-build-pyramid-generator)
+
+### 49. Build a Gradebook App
+- 📁 [Ver ejercicio](./49-build-gradebook-app)
 ---
 
 ## 🚀 Progreso | Progress
@@ -205,7 +208,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 46. First Element Finder
 - [x] 47. Slice and Splice Algorithm
 - [x] 48. Pyramid Generator
-- [ ] 49. Próximo ejercicio
+- [x] 49. Gradebook App
+- [ ] 50. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
