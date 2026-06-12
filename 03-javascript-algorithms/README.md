@@ -159,6 +159,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 50. Build a Title Case Converter
 - 📁 [Ver ejercicio](./50-build-title-case-converter)
+
+### 51. Implement a Falsy Remover
+- 📁 [Ver ejercicio](./51-implement-falsy-remover)
 ---
 
 ## 🚀 Progreso | Progress
@@ -213,7 +216,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 48. Pyramid Generator
 - [x] 49. Gradebook App
 - [x] 50. Title Case Converter
-- [ ] 51. Próximo ejercicio
+- [x] 51. Falsy Remover
+- [ ] 52. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
