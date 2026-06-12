@@ -162,6 +162,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 51. Implement a Falsy Remover
 - 📁 [Ver ejercicio](./51-implement-falsy-remover)
+
+### 52. Build an Inventory Management Program
+- 📁 [Ver ejercicio](./52-build-inventory-management-program)
 ---
 
 ## 🚀 Progreso | Progress
@@ -217,7 +220,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 49. Gradebook App
 - [x] 50. Title Case Converter
 - [x] 51. Falsy Remover
-- [ ] 52. Próximo ejercicio
+- [x] 52. Inventory Management Program
+- [ ] 53. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
