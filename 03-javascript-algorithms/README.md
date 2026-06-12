@@ -150,6 +150,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 47. Implement the Slice and Splice Algorithm
 - 📁 [Ver ejercicio](./47-slice-and-splice-algorithm)
+
+### 48. Build a Pyramid Generator
+- 📁 [Ver ejercicio](./48-build-pyramid-generator)
 ---
 
 ## 🚀 Progreso | Progress
@@ -201,7 +204,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 45. Largest Number Finder
 - [x] 46. First Element Finder
 - [x] 47. Slice and Splice Algorithm
-- [ ] 48. Próximo ejercicio
+- [x] 48. Pyramid Generator
+- [ ] 49. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
