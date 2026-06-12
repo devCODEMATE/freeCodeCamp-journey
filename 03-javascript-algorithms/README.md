@@ -156,6 +156,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 49. Build a Gradebook App
 - 📁 [Ver ejercicio](./49-build-gradebook-app)
+
+### 50. Build a Title Case Converter
+- 📁 [Ver ejercicio](./50-build-title-case-converter)
 ---
 
 ## 🚀 Progreso | Progress
@@ -209,7 +212,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 47. Slice and Splice Algorithm
 - [x] 48. Pyramid Generator
 - [x] 49. Gradebook App
-- [ ] 50. Próximo ejercicio
+- [x] 50. Title Case Converter
+- [ ] 51. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
