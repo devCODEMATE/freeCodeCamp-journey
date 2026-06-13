@@ -174,6 +174,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 55. Design a Sum All Numbers Algorithm
 - 📁 [Ver ejercicio](./55-sum-all-numbers-algorithm)
+
+### 56. Implement a DNA Pair Generator
+- 📁 [Ver ejercicio](./56-implement-dna-pair-generator)
 ---
 
 ## 🚀 Progreso | Progress
@@ -233,7 +236,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 53. Unique Sorted Union
 - [x] 54. Password Generator App
 - [x] 55. Sum All Numbers Algorithm
-- [ ] 56. Próximo ejercicio
+- [x] 56. DNA Pair Generator
+- [ ] 57. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
