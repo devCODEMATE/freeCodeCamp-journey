@@ -171,6 +171,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 54. Build a Password Generator App
 - 📁 [Ver ejercicio](./54-build-password-generator-app)
+
+### 55. Design a Sum All Numbers Algorithm
+- 📁 [Ver ejercicio](./55-sum-all-numbers-algorithm)
 ---
 
 ## 🚀 Progreso | Progress
@@ -229,7 +232,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 52. Inventory Management Program
 - [x] 53. Unique Sorted Union
 - [x] 54. Password Generator App
-- [ ] 55. Próximo ejercicio
+- [x] 55. Sum All Numbers Algorithm
+- [ ] 56. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
