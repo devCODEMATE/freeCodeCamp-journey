@@ -168,6 +168,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 53. Implement a Unique Sorted Union
 - 📁 [Ver ejercicio](./53-implement-unique-sorted-union)
+
+### 54. Build a Password Generator App
+- 📁 [Ver ejercicio](./54-build-password-generator-app)
 ---
 
 ## 🚀 Progreso | Progress
@@ -225,7 +228,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 51. Falsy Remover
 - [x] 52. Inventory Management Program
 - [x] 53. Unique Sorted Union
-- [ ] 54. Próximo ejercicio
+- [x] 54. Password Generator App
+- [ ] 55. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
