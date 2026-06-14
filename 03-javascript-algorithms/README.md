@@ -186,6 +186,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 59. Implement an Element Skipper
 - 📁 [Ver ejercicio](./59-implement-element-skipper)
+
+### 60. Build a Playlist Remix Engine
+- 📁 [Ver ejercicio](./60-build-playlist-remix-engine)
 ---
 
 ## 🚀 Progreso | Progress
@@ -249,7 +252,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 57. HTML Entity Converter
 - [x] 58. Odd Fibonacci Sum Calculator
 - [x] 59. Element Skipper
-- [ ] 60. Próximo ejercicio
+- [x] 60. Playlist Remix Engine
+- [ ] 61. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
