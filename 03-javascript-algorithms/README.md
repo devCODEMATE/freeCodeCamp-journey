@@ -177,6 +177,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 56. Implement a DNA Pair Generator
 - 📁 [Ver ejercicio](./56-implement-dna-pair-generator)
+
+### 57. Implement an HTML Entity Converter
+- 📁 [Ver ejercicio](./57-html-entity-converter)
 ---
 
 ## 🚀 Progreso | Progress
@@ -237,7 +240,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 54. Password Generator App
 - [x] 55. Sum All Numbers Algorithm
 - [x] 56. DNA Pair Generator
-- [ ] 57. Próximo ejercicio
+- [x] 57. HTML Entity Converter
+- [ ] 58. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
