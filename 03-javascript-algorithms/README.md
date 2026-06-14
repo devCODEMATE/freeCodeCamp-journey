@@ -180,6 +180,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 57. Implement an HTML Entity Converter
 - 📁 [Ver ejercicio](./57-html-entity-converter)
+
+### 58. Build an Odd Fibonacci Sum Calculator
+- 📁 [Ver ejercicio](./58-odd-fibonacci-sum-calculator)
 ---
 
 ## 🚀 Progreso | Progress
@@ -241,7 +244,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 55. Sum All Numbers Algorithm
 - [x] 56. DNA Pair Generator
 - [x] 57. HTML Entity Converter
-- [ ] 58. Próximo ejercicio
+- [x] 58. Odd Fibonacci Sum Calculator
+- [ ] 59. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
