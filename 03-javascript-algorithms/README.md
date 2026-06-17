@@ -204,6 +204,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 65. Implement a Value Remover Function
 - 📁 [Ver ejercicio](./65-implement-value-remover-function)
+
+### 66. Implement a Matching Object Filter
+- 📁 [Ver ejercicio](./66-implement-matching-object-filter)
 ---
 
 ## 🚀 Progreso | Progress
@@ -273,7 +276,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 63. Sorted Index Finder
 - [x] 64. Symmetric Difference Function
 - [x] 65. Value Remover Function
-- [ ] 66. Próximo ejercicio
+- [x] 66. Matching Object Filter
+- [ ] 67. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
