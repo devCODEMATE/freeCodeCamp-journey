@@ -189,6 +189,12 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 60. Build a Playlist Remix Engine
 - 📁 [Ver ejercicio](./60-build-playlist-remix-engine)
+
+### 61. Build a Library Manager
+- 📁 [Ver ejercicio](./61-build-library-manager)
+
+### 62. Build a Book Organizer
+- 📁 [Ver ejercicio](./62-build-book-organizer)
 ---
 
 ## 🚀 Progreso | Progress
@@ -253,7 +259,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 58. Odd Fibonacci Sum Calculator
 - [x] 59. Element Skipper
 - [x] 60. Playlist Remix Engine
-- [ ] 61. Próximo ejercicio
+- [x] 61. Library Manager
+- [x] 62. Book Organizer
+- [ ] 63. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
