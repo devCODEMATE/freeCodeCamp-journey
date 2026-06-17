@@ -216,6 +216,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 69. Create a Deep Flattening Tool
 - 📁 [Ver ejercicio](./69-create-deep-flattening-tool)
+
+### 70. Build an All-True Property Validator
+- 📁 [Ver ejercicio](./70-build-all-true-property-validator)
 ---
 
 ## 🚀 Progreso | Progress
@@ -289,7 +292,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 67. Prime Number Sum Calculator
 - [x] 68. Range-Based LCM Calculator
 - [x] 69. Deep Flattening Tool
-- [ ] 70. Próximo ejercicio
+- [x] 70. All-True Property Validator
+- [ ] 71. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
