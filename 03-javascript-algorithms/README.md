@@ -207,6 +207,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 66. Implement a Matching Object Filter
 - 📁 [Ver ejercicio](./66-implement-matching-object-filter)
+
+### 67. Build a Prime Number Sum Calculator
+- 📁 [Ver ejercicio](./67-build-prime-number-sum-calculator)
 ---
 
 ## 🚀 Progreso | Progress
@@ -277,7 +280,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 64. Symmetric Difference Function
 - [x] 65. Value Remover Function
 - [x] 66. Matching Object Filter
-- [ ] 67. Próximo ejercicio
+- [x] 67. Prime Number Sum Calculator
+- [ ] 68. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
