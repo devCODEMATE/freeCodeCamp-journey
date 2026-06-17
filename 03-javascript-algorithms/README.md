@@ -201,6 +201,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 64. Build a Symmetric Difference Function
 - 📁 [Ver ejercicio](./64-build-symmetric-difference-function)
+
+### 65. Implement a Value Remover Function
+- 📁 [Ver ejercicio](./65-implement-value-remover-function)
 ---
 
 ## 🚀 Progreso | Progress
@@ -269,7 +272,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 62. Book Organizer
 - [x] 63. Sorted Index Finder
 - [x] 64. Symmetric Difference Function
-- [ ] 65. Próximo ejercicio
+- [x] 65. Value Remover Function
+- [ ] 66. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
