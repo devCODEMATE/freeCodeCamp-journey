@@ -210,6 +210,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 67. Build a Prime Number Sum Calculator
 - 📁 [Ver ejercicio](./67-build-prime-number-sum-calculator)
+
+### 68. Implement a Range-Based LCM Calculator
+- 📁 [Ver ejercicio](./68-range-based-lcm-calculator)
 ---
 
 ## 🚀 Progreso | Progress
@@ -281,7 +284,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 65. Value Remover Function
 - [x] 66. Matching Object Filter
 - [x] 67. Prime Number Sum Calculator
-- [ ] 68. Próximo ejercicio
+- [x] 68. Range-Based LCM Calculator
+- [ ] 69. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
