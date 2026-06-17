@@ -198,6 +198,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 63. Implement a Sorted Index Finder
 - 📁 [Ver ejercicio](./63-sorted-index-finder)
+
+### 64. Build a Symmetric Difference Function
+- 📁 [Ver ejercicio](./64-build-symmetric-difference-function)
 ---
 
 ## 🚀 Progreso | Progress
@@ -265,7 +268,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 61. Library Manager
 - [x] 62. Book Organizer
 - [x] 63. Sorted Index Finder
-- [ ] 64. Próximo ejercicio
+- [x] 64. Symmetric Difference Function
+- [ ] 65. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
