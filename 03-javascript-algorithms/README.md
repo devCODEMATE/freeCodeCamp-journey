@@ -213,6 +213,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 68. Implement a Range-Based LCM Calculator
 - 📁 [Ver ejercicio](./68-range-based-lcm-calculator)
+
+### 69. Create a Deep Flattening Tool
+- 📁 [Ver ejercicio](./69-create-deep-flattening-tool)
 ---
 
 ## 🚀 Progreso | Progress
@@ -285,7 +288,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 66. Matching Object Filter
 - [x] 67. Prime Number Sum Calculator
 - [x] 68. Range-Based LCM Calculator
-- [ ] 69. Próximo ejercicio
+- [x] 69. Deep Flattening Tool
+- [ ] 70. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
