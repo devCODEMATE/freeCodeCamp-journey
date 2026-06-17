@@ -195,6 +195,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 62. Build a Book Organizer
 - 📁 [Ver ejercicio](./62-build-book-organizer)
+
+### 63. Implement a Sorted Index Finder
+- 📁 [Ver ejercicio](./63-sorted-index-finder)
 ---
 
 ## 🚀 Progreso | Progress
@@ -261,7 +264,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 60. Playlist Remix Engine
 - [x] 61. Library Manager
 - [x] 62. Book Organizer
-- [ ] 63. Próximo ejercicio
+- [x] 63. Sorted Index Finder
+- [ ] 64. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
