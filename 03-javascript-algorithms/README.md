@@ -225,6 +225,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 72. Build an Emoji Reactor
 - 📁 [Ver ejercicio](./72-build-emoji-reactor)
+
+### 73. Build a Favorite Icon Toggler
+- 📁 [Ver ejercicio](./73-build-favorite-icon-toggler)
 ---
 
 ## 🚀 Progreso | Progress
@@ -302,6 +305,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 71. Storytelling App
 - [x] 72. Emoji Reactor
 - [ ] 73. Próximo ejercicio
+- [x] 73. Favorite Icon Toggler
+- [ ] 74. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
