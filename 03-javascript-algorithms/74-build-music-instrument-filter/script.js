@@ -32,5 +32,5 @@ function instrumentCards(instrumentCategory) {
     })
 }
 selectContainer.addEventListener("change", () => {
-  productsContainer.innerHTML = instrumentCards(selectContainer.value);
+  productsContainer.innerHTML = instrumentCards(selectContainer.value).join("");
 });
