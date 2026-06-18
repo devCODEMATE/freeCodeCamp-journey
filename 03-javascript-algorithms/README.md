@@ -228,6 +228,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 73. Build a Favorite Icon Toggler
 - 📁 [Ver ejercicio](./73-build-favorite-icon-toggler)
+
+### 74. Build a Music Instrument Filter
+- 📁 [Ver ejercicio](./74-build-music-instrument-filter)
 ---
 
 ## 🚀 Progreso | Progress
@@ -306,7 +309,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 72. Emoji Reactor
 - [ ] 73. Próximo ejercicio
 - [x] 73. Favorite Icon Toggler
-- [ ] 74. Próximo ejercicio
+- [x] 74. Music Instrument Filter
+- [ ] 75. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
