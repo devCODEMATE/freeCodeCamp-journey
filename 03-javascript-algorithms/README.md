@@ -219,6 +219,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 70. Build an All-True Property Validator
 - 📁 [Ver ejercicio](./70-build-all-true-property-validator)
+
+### 71. Build a Storytelling App
+- 📁 [Ver ejercicio](./71-build-storytelling-app)
 ---
 
 ## 🚀 Progreso | Progress
@@ -293,7 +296,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 68. Range-Based LCM Calculator
 - [x] 69. Deep Flattening Tool
 - [x] 70. All-True Property Validator
-- [ ] 71. Próximo ejercicio
+- [x] 71. Storytelling App
+- [ ] 72. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
