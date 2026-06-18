@@ -222,6 +222,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 71. Build a Storytelling App
 - 📁 [Ver ejercicio](./71-build-storytelling-app)
+
+### 72. Build an Emoji Reactor
+- 📁 [Ver ejercicio](./72-build-emoji-reactor)
 ---
 
 ## 🚀 Progreso | Progress
@@ -297,7 +300,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 69. Deep Flattening Tool
 - [x] 70. All-True Property Validator
 - [x] 71. Storytelling App
-- [ ] 72. Próximo ejercicio
+- [x] 72. Emoji Reactor
+- [ ] 73. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
