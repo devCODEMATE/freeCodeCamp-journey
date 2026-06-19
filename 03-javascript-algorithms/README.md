@@ -231,6 +231,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 74. Build a Music Instrument Filter
 - 📁 [Ver ejercicio](./74-build-music-instrument-filter)
+
+### 75. Build a Real Time Counter
+- 📁 [Ver ejercicio](./75-build-real-time-counter)
 ---
 
 ## 🚀 Progreso | Progress
@@ -310,7 +313,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [ ] 73. Próximo ejercicio
 - [x] 73. Favorite Icon Toggler
 - [x] 74. Music Instrument Filter
-- [ ] 75. Próximo ejercicio
+- [x] 75. Real Time Counter
+- [ ] 76. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
