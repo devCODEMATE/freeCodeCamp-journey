@@ -240,6 +240,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 77. Build a Rock, Paper, Scissors Game
 - 📁 [Ver ejercicio](./77-build-rock-paper-scissors-game)
+
+### 78. Build a Set of Football Team Cards
+- 📁 [Ver ejercicio](./78-build-football-team-cards)
 ---
 
 ## 🚀 Progreso | Progress
@@ -322,7 +325,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 75. Real Time Counter
 - [x] 76. Lightbox Viewer
 - [x] 77. Rock, Paper, Scissors Game
-- [ ] 78. Próximo ejercicio
+- [x] 78. Football Team Cards
+- [ ] 79. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
