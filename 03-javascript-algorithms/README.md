@@ -237,6 +237,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 76. Build a Lightbox Viewer
 - 📁 [Ver ejercicio](./76-build-lightbox-viewer)
+
+### 77. Build a Rock, Paper, Scissors Game
+- 📁 [Ver ejercicio](./77-build-rock-paper-scissors-game)
 ---
 
 ## 🚀 Progreso | Progress
@@ -318,7 +321,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 74. Music Instrument Filter
 - [x] 75. Real Time Counter
 - [x] 76. Lightbox Viewer
-- [ ] 77. Próximo ejercicio
+- [x] 77. Rock, Paper, Scissors Game
+- [ ] 78. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
