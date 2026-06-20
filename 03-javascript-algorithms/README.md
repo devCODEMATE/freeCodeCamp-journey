@@ -234,6 +234,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 75. Build a Real Time Counter
 - 📁 [Ver ejercicio](./75-build-real-time-counter)
+
+### 76. Build a Lightbox Viewer
+- 📁 [Ver ejercicio](./76-build-lightbox-viewer)
 ---
 
 ## 🚀 Progreso | Progress
@@ -314,7 +317,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 73. Favorite Icon Toggler
 - [x] 74. Music Instrument Filter
 - [x] 75. Real Time Counter
-- [ ] 76. Próximo ejercicio
+- [x] 76. Lightbox Viewer
+- [ ] 77. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
