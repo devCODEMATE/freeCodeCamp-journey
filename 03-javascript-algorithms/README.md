@@ -252,6 +252,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 81. Build a Theme Switcher
 - 📁 [Ver ejercicio](./81-build-theme-switcher)
+
+### 82. Debug a Random Background Color Changer
+- 📁 [Ver ejercicio](./82-debug-random-background-color-changer)
 ---
 
 ## 🚀 Progreso | Progress
@@ -339,7 +342,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 79. Planets Tablist
 - [x] 80. Note Taking App
 - [x] 81. Theme Switcher
-- [ ] 82. Próximo ejercicio
+- [x] 82. Random Background Color Changer
+- [ ] 83. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
