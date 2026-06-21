@@ -246,6 +246,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 79. Build a Planets Tablist
 - 📁 [Ver ejercicio](./79-build-planets-tablist)
+
+### 80. Build a Note Taking App
+- 📁 [Ver ejercicio](./80-build-note-taking-app)
 ---
 
 ## 🚀 Progreso | Progress
@@ -331,7 +334,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 78. Football Team Cards
 - [ ] 79. Próximo ejercicio
 - [x] 79. Planets Tablist
-- [ ] 80. Próximo ejercicio
+- [x] 80. Note Taking App
+- [ ] 81. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
