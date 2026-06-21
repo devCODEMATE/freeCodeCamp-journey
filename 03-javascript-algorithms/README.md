@@ -249,6 +249,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 80. Build a Note Taking App
 - 📁 [Ver ejercicio](./80-build-note-taking-app)
+
+### 81. Build a Theme Switcher
+- 📁 [Ver ejercicio](./81-build-theme-switcher)
 ---
 
 ## 🚀 Progreso | Progress
@@ -335,7 +338,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [ ] 79. Próximo ejercicio
 - [x] 79. Planets Tablist
 - [x] 80. Note Taking App
-- [ ] 81. Próximo ejercicio
+- [x] 81. Theme Switcher
+- [ ] 82. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
