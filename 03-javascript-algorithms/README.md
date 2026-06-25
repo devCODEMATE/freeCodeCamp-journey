@@ -255,6 +255,12 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 82. Debug a Random Background Color Changer
 - 📁 [Ver ejercicio](./82-debug-random-background-color-changer)
+
+### 83. Build a Spam Filter
+- 📁 [Ver ejercicio](./83-build-spam-filter)
+
+### 84. Build a Palindrome Checker
+- 📁 [Ver ejercicio](./84-build-palindrome-checker)
 ---
 
 ## 🚀 Progreso | Progress
@@ -343,7 +349,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 80. Note Taking App
 - [x] 81. Theme Switcher
 - [x] 82. Random Background Color Changer
-- [ ] 83. Próximo ejercicio
+- [x] 83. Spam Filter
+- [x] 84. Palindrome Checker
+- [ ] 85. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
