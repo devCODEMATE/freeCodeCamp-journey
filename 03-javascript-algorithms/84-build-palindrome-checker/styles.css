@@ -1,0 +1,81 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  background-color: #10162f;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  width: 90%;
+  max-width: 600px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.checker-card {
+  background-color: white;
+  color: #10162f;
+  padding: 30px;
+  border-radius: 18px;
+  box-shadow: 0 6px 0 #3b82f6;
+  margin-bottom: 30px;
+}
+
+label {
+  display: block;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.input-row {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#text-input {
+  border: none;
+  border-bottom: 3px solid #7c3aed;
+  padding: 10px;
+  font-size: 1rem;
+  outline: none;
+}
+
+#check-btn {
+  border: none;
+  border-radius: 20px;
+  padding: 10px 25px;
+  background-color: #7c3aed;
+  color: white;
+  cursor: pointer;
+}
+
+#check-btn:hover {
+  background-color: #5b21b6;
+}
+
+#result {
+  margin-top: 25px;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.info-card {
+  background-color: #14532d;
+  padding: 20px;
+  border-radius: 15px;
+  font-size: 1.1rem;
+}
