@@ -267,6 +267,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 86. Implement a Spinal Case Converter
 - 📁 [View Exercise](./86-implement-spinal-case-converter)
+
+### 87. Implement a Pig Latin Translator
+- 📁 [View Exercise](./87-implement-pig-latin-translator)
 ---
 
 ## 🚀 Progreso | Progress
@@ -343,14 +346,13 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 70. All-True Property Validator
 - [x] 71. Storytelling App
 - [x] 72. Emoji Reactor
-- [ ] 73. Próximo ejercicio
+- [x] 73. Favorite Icon Toggler
 - [x] 73. Favorite Icon Toggler
 - [x] 74. Music Instrument Filter
 - [x] 75. Real Time Counter
 - [x] 76. Lightbox Viewer
 - [x] 77. Rock, Paper, Scissors Game
 - [x] 78. Football Team Cards
-- [ ] 79. Próximo ejercicio
 - [x] 79. Planets Tablist
 - [x] 80. Note Taking App
 - [x] 81. Theme Switcher
@@ -359,7 +361,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 84. Palindrome Checker
 - [x] 85. RegEx Sandbox
 - [x] 86. Implement a Spinal Case Converter
-- [ ] 87. Próximo ejercicio
+- [x] 87. Implement a Pig Latin Translator
+- [ ] 88. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
