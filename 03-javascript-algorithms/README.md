@@ -264,6 +264,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 85. Build a RegEx Sandbox
 - 📁 [Ver ejercicio](./85-build-regex-sandbox)
+
+### 86. Implement a Spinal Case Converter
+- 📁 [View Exercise](./86-implement-spinal-case-converter)
 ---
 
 ## 🚀 Progreso | Progress
@@ -355,7 +358,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 83. Spam Filter
 - [x] 84. Palindrome Checker
 - [x] 85. RegEx Sandbox
-- [ ] 86. Próximo ejercicio
+- [x] 86. Implement a Spinal Case Converter
+- [ ] 87. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
