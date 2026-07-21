@@ -261,6 +261,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 84. Build a Palindrome Checker
 - 📁 [Ver ejercicio](./84-build-palindrome-checker)
+
+### 85. Build a RegEx Sandbox
+- 📁 [Ver ejercicio](./85-build-regex-sandbox)
 ---
 
 ## 🚀 Progreso | Progress
@@ -351,7 +354,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 82. Random Background Color Changer
 - [x] 83. Spam Filter
 - [x] 84. Palindrome Checker
-- [ ] 85. Próximo ejercicio
+- [x] 85. RegEx Sandbox
+- [ ] 86. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
