@@ -270,6 +270,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 87. Implement a Pig Latin Translator
 - 📁 [View Exercise](./87-implement-pig-latin-translator)
+
+### 88. Implement a Smart Word Replacement Function
+- 📁 [View Exercise](./88-implement-smart-word-replacement-function)
 ---
 
 ## 🚀 Progreso | Progress
@@ -362,7 +365,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 85. RegEx Sandbox
 - [x] 86. Implement a Spinal Case Converter
 - [x] 87. Implement a Pig Latin Translator
-- [ ] 88. Próximo ejercicio
+- [x] 88. Implement a Smart Word Replacement Function
+- [ ] 89. Próximo ejercicio
 ---
 
 ## 🧠 Objetivo | Goal
