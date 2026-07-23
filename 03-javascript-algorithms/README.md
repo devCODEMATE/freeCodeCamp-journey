@@ -273,6 +273,10 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 88. Implement a Smart Word Replacement Function
 - 📁 [View Exercise](./88-implement-smart-word-replacement-function)
+
+### 89. Build a Markdown to HTML Converter 🏆
+- 📁 [View Project](./89-build-markdown-to-html-converter)
+- 🎓 JavaScript Certification Project
 ---
 
 ## 🚀 Progreso | Progress
@@ -366,8 +370,13 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 86. Implement a Spinal Case Converter
 - [x] 87. Implement a Pig Latin Translator
 - [x] 88. Implement a Smart Word Replacement Function
-- [ ] 89. Próximo ejercicio
+- [x] 89. Build a Markdown to HTML Converter 🏆
+- [ ] 90. Próximo ejercicio
 ---
+
+## 🏆 Certification Projects
+
+- [x] [Markdown to HTML Converter](./89-build-markdown-to-html-converter)
 
 ## 🧠 Objetivo | Goal
 
