@@ -1,0 +1,215 @@
+:root {
+  --navy: #073b4c;
+  --purple: #5a527a;
+  --yellow: #ffd166;
+  --teal: #6b9e93;
+  --white: #ffffff;
+  --black: #1a1a1a;
+  --panel-bg: #fdfcf9;
+  --border: var(--navy);
+  --titlebar-h: 34px;
+  --radius: 4px;
+}
+
+/* Optional — add this to your <head> for the pixel label font:
+   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Space Mono', 'Courier New', monospace;
+  background-color: var(--navy);
+  color: var(--black);
+  padding: 24px;
+  margin: 0;
+}
+
+h1 {
+  color: var(--white);
+  font-size: 1.15rem;
+  letter-spacing: 0.5px;
+  margin: 0 0 4px 0;
+}
+
+h1::before {
+  content: "> ";
+  color: var(--yellow);
+}
+
+.subtitle,
+p.subtitle {
+  color: var(--teal);
+  font-size: 0.8rem;
+  margin: 0 0 20px 0;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* ---- Shared "editor window" chrome for all three panels ---- */
+#markdown-input,
+#html-output,
+#preview {
+  width: 100%;
+  height: 140px;
+  margin: auto;
+  padding: 12px;
+  padding-top: calc(var(--titlebar-h) + 10px);
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  background-color: var(--panel-bg);
+  color: var(--black);
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  position: relative;
+  overflow: auto;
+  box-shadow: 3px 3px 0 rgba(7, 59, 76, 0.25);
+}
+
+#markdown-input {
+  resize: vertical;
+}
+
+/* A <textarea>/<div> can't render a ::before "title bar" reliably, so
+   each panel gets a small label element placed right before it in the
+   HTML (see the snippet below). This keeps #markdown-input, #html-output
+   and #preview exactly as the assignment requires; .editor-label is the
+   only markup you add on top. */
+.editor-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background-color: var(--navy);
+  color: var(--white);
+  font-family: 'Press Start 2P', 'Space Mono', monospace;
+  font-size: 0.6rem;
+  padding: 8px 10px;
+  border: 2px solid var(--border);
+  border-bottom: none;
+  border-radius: var(--radius) var(--radius) 0 0;
+  margin-top: 16px;
+}
+
+.editor-label:first-of-type {
+  margin-top: 0;
+}
+
+.editor-label .dots {
+  display: inline-flex;
+  gap: 4px;
+  margin-right: 4px;
+}
+
+.editor-label .dots span {
+  width: 8px;
+  height: 8px;
+  display: inline-block;
+  background-color: var(--yellow);
+}
+
+.editor-label .dots span:nth-child(2) {
+  background-color: var(--teal);
+}
+
+.editor-label .dots span:nth-child(3) {
+  background-color: var(--purple);
+}
+
+/* Pull the panel up flush under its label */
+.editor-label + #markdown-input,
+.editor-label + #html-output,
+.editor-label + #preview {
+  margin-top: 0;
+  border-radius: 0 0 var(--radius) var(--radius);
+  padding-top: 12px;
+}
+
+/* Blinking cursor, only on the input label, respecting reduced motion */
+#markdown-input-label::after {
+  content: "_";
+  color: var(--yellow);
+  animation: blink 1s steps(1) infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #markdown-input-label::after {
+    animation: none;
+  }
+}
+
+/* Focus state — visible keyboard focus, brand-colored */
+#markdown-input:focus {
+  outline: none;
+  border-color: var(--yellow);
+  box-shadow: 3px 3px 0 rgba(255, 209, 102, 0.5);
+}
+
+/* Rendered markdown inside #preview keeps CodeMate accent colors */
+#preview h1,
+#preview h2,
+#preview h3 {
+  color: var(--navy);
+  margin: 0.3em 0;
+}
+
+#preview strong {
+  color: var(--purple);
+}
+
+#preview em {
+  color: var(--teal);
+}
+
+#preview blockquote {
+  border-left: 3px solid var(--yellow);
+  margin: 0.5em 0;
+  padding-left: 10px;
+  color: var(--black);
+  font-style: normal;
+}
+
+#preview a {
+  color: var(--navy);
+  text-decoration: underline wavy var(--yellow);
+}
+
+#preview code {
+  background-color: rgba(90, 82, 122, 0.12);
+  color: var(--purple);
+  padding: 1px 5px;
+  border-radius: 3px;
+  font-family: 'Space Mono', monospace;
+}
+
+/* ---- Responsive: side-by-side on wider screens ---- */
+@media (min-width: 600px) {
+  #container {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 16px;
+  }
+
+  #container > div {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
+  #markdown-input,
+  #html-output,
+  #preview {
+    height: 260px;
+  }
+}
