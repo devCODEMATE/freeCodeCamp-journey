@@ -289,6 +289,10 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 93. Build a Music Player
 - 📁 [View Exercise](./93-build-music-player)
+
+### 94. Build a Drum Machine 🏆
+- 📁 [View Project](./94-build-drum-machine)
+- 🎓 JavaScript Certification Project
 ---
 
 ## 🚀 Progreso | Progress
@@ -387,12 +391,14 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 91. Build a Customer Complaint Form
 - [x] 92. Build a Date Conversion Program
 - [x] 93. Build a Music Player
-- [ ] 94. Próximo ejercicio
+- [x] 94. Build a Drum Machine 🏆
+- [ ] 95. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
 
 - [x] [Markdown to HTML Converter](./89-build-markdown-to-html-converter)
+- [x] [94. Drum Machine](./94-build-drum-machine)
 
 ## 🧠 Objetivo | Goal
 
