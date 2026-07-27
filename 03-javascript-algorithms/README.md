@@ -277,6 +277,18 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 89. Build a Markdown to HTML Converter 🏆
 - 📁 [View Project](./89-build-markdown-to-html-converter)
 - 🎓 JavaScript Certification Project
+
+### 90. Build a Calorie Counter
+- 📁 [View Exercise](./90-build-calorie-counter)
+
+### 91. Build a Customer Complaint Form
+- 📁 [View Exercise](./91-build-customer-complaint-form)
+
+### 92. Build a Date Conversion Program
+- 📁 [View Exercise](./92-build-date-conversion-program)
+
+### 93. Build a Music Player
+- 📁 [View Exercise](./93-build-music-player)
 ---
 
 ## 🚀 Progreso | Progress
@@ -371,7 +383,11 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 87. Implement a Pig Latin Translator
 - [x] 88. Implement a Smart Word Replacement Function
 - [x] 89. Build a Markdown to HTML Converter 🏆
-- [ ] 90. Próximo ejercicio
+- [x] 90. Build a Calorie Counter
+- [x] 91. Build a Customer Complaint Form
+- [x] 92. Build a Date Conversion Program
+- [x] 93. Build a Music Player
+- [ ] 94. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
