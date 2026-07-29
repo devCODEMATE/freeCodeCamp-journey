@@ -296,6 +296,10 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 95. Build a Plant Nursery Catalog
 - 📁 [View Exercise](./95-build-plant-nursery-catalog)
+
+### 96. Build a Voting System 🏆
+- 📁 [View Exercise](./96-build-voting-system)
+- 🎓 JavaScript Certification Project
 ---
 
 ## 🚀 Progreso | Progress
@@ -396,13 +400,15 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 93. Build a Music Player
 - [x] 94. Build a Drum Machine 🏆
 - [x] 95. Build a Plant Nursery Catalog
-- [ ] 96. Próximo ejercicio
+- [x] 96. Build a Voting System
+- [ ] 97. Próximo ejercicioo
 ---
 
 ## 🏆 Certification Projects
 
 - [x] [Markdown to HTML Converter](./89-build-markdown-to-html-converter)
 - [x] [94. Drum Machine](./94-build-drum-machine)
+- [x] [96. Build a Voting System](./96-build-voting-system)
 
 ## 🧠 Objetivo | Goal
 
