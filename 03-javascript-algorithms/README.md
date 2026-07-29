@@ -293,6 +293,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 94. Build a Drum Machine 🏆
 - 📁 [View Project](./94-build-drum-machine)
 - 🎓 JavaScript Certification Project
+
+### 95. Build a Plant Nursery Catalog
+- 📁 [View Exercise](./95-build-plant-nursery-catalog)
 ---
 
 ## 🚀 Progreso | Progress
@@ -392,7 +395,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 92. Build a Date Conversion Program
 - [x] 93. Build a Music Player
 - [x] 94. Build a Drum Machine 🏆
-- [ ] 95. Próximo ejercicio
+- [x] 95. Build a Plant Nursery Catalog
+- [ ] 96. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
