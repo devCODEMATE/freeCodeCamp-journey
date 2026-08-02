@@ -300,6 +300,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 96. Build a Voting System 🏆
 - 📁 [View Exercise](./96-build-voting-system)
 - 🎓 JavaScript Certification Project
+
+### 97. Build a Todo App using Local Storage
+- 📁 [View Exercise](./97-build-todo-app-using-local-storage)
 ---
 
 ## 🚀 Progreso | Progress
@@ -401,7 +404,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 94. Build a Drum Machine 🏆
 - [x] 95. Build a Plant Nursery Catalog
 - [x] 96. Build a Voting System
-- [ ] 97. Próximo ejercicioo
+- [x] 97. Build a Todo App using Local Storage
+- [ ] 98. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
