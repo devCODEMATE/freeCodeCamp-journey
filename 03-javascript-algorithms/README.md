@@ -306,6 +306,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 98. Build a Bookmark Manager App
 - 📁 [View Exercise](./98-build-bookmark-manager-app)
+
+### 99. Build a Shopping Cart
+- 📁 [View Exercise](./99-build-shopping-cart)
 ---
 
 ## 🚀 Progreso | Progress
@@ -409,7 +412,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 96. Build a Voting System
 - [x] 97. Build a Todo App using Local Storage
 - [x] 98. Build a Bookmark Manager App
-- [ ] 99. Próximo ejercicio
+- [x] 99. Build a Shopping Cart
+- [ ] 100. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
