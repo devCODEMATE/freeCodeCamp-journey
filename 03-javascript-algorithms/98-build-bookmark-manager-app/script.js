@@ -18,19 +18,41 @@ const categoryNames = document.querySelectorAll(".category-name");
 const categoryList = document.getElementById("category-list");
 
 const getBookmarks = () => {
-  const bookmarks = JSON.parse(localStorage.getItem("bookmarks"));
+  let bookmarks;
 
-  if (
-    !Array.isArray(bookmarks) ||
-    !bookmarks.every(
-      (bookmark) =>
-        typeof bookmark === "object" &&
-        bookmark !== null &&
-        bookmark.hasOwnProperty("name") &&
-        bookmark.hasOwnProperty("category") &&
-        bookmark.hasOwnProperty("url")
-    )
-  ) {
+  try {
+    bookmarks = JSON.parse(localStorage.getItem("bookmarks"));
+  } catch (error) {
+    return [];
+  }
+
+  if (!Array.isArray(bookmarks)) {
+    return [];
+  }
+
+  const isValidBookmarksArray = bookmarks.every((bookmark) => {
+    if (
+      typeof bookmark !== "object" ||
+      bookmark === null ||
+      Array.isArray(bookmark)
+    ) {
+      return false;
+    }
+
+    const keys = Object.keys(bookmark);
+
+    return (
+      keys.length === 3 &&
+      keys.includes("name") &&
+      keys.includes("category") &&
+      keys.includes("url") &&
+      typeof bookmark.name === "string" &&
+      typeof bookmark.category === "string" &&
+      typeof bookmark.url === "string"
+    );
+  });
+
+  if (!isValidBookmarksArray) {
     return [];
   }
 
