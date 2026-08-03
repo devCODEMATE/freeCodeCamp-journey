@@ -303,6 +303,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 97. Build a Todo App using Local Storage
 - 📁 [View Exercise](./97-build-todo-app-using-local-storage)
+
+### 98. Build a Bookmark Manager App
+- 📁 [View Exercise](./98-build-bookmark-manager-app)
 ---
 
 ## 🚀 Progreso | Progress
@@ -405,7 +408,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 95. Build a Plant Nursery Catalog
 - [x] 96. Build a Voting System
 - [x] 97. Build a Todo App using Local Storage
-- [ ] 98. Próximo ejercicio
+- [x] 98. Build a Bookmark Manager App
+- [ ] 99. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
