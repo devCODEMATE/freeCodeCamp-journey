@@ -10,305 +10,305 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ## 📂 Ejercicios | Exercises
 
-### 01. Build Greeting Bot
-- 📁 [Ver ejercicio](./01-build-greeting-bot)
+### 001. Build Greeting Bot
+- 📁 [Ver ejercicio](./001-build-greeting-bot)
 
 ### 02. Build JavaScript Trivia Bot
-- 📁 [Ver ejercicio](./02-build-javascript-trivia-bot)
+- 📁 [Ver ejercicio](./002-build-javascript-trivia-bot)
 
 ### 03. Build Sentence Maker
-- 📁 [Ver ejercicio](./03-build-sentence-maker)
+- 📁 [Ver ejercicio](./003-build-sentence-maker)
 
 ### 04. Build Teacher Chatbot
-- 📁 [Ver ejercicio](./04-build-teacher-chatbot)
+- 📁 [Ver ejercicio](./004-build-teacher-chatbot)
 
 ### 05. Build String Inspector
-- 📁 [Ver ejercicio](./05-build-string-inspector)
+- 📁 [Ver ejercicio](./005-build-string-inspector)
 
 ### 06. Build String Formatter
-- 📁 [Ver ejercicio](./06-build-string-formatter)
+- 📁 [Ver ejercicio](./006-build-string-formatter)
 
 ### 07. Build String Transformer
-- 📁 [Ver ejercicio](./07-build-string-transformer)
+- 📁 [Ver ejercicio](./007-build-string-transformer)
 
 ### 08. Debug Type Coercion Errors in a Buggy App
-- 📁 [Ver ejercicio](./08-debug-type-coercion-errors)
+- 📁 [Ver ejercicio](./008-debug-type-coercion-errors)
 
 ### 09. Debug Increment and Decrement Operator Errors in a Buggy App
-- 📁 [Ver ejercicio](./09-debug-increment-decrement-errors)
+- 📁 [Ver ejercicio](./009-debug-increment-decrement-errors)
 
 ### 10. Build a Logic Checker App
-- 📁 [Ver ejercicio](./10-build-logic-checker-app)
+- 📁 [Ver ejercicio](./010-build-logic-checker-app)
 
 ### 11. Build a Mathbot
-- 📁 [Ver ejercicio](./11-build-mathbot)
+- 📁 [Ver ejercicio](./011-build-mathbot)
 
 ### 12. Build a Fortune Teller
-- 📁 [Ver ejercicio](./12-build-fortune-teller)
+- 📁 [Ver ejercicio](./012-build-fortune-teller)
 
 ### 13. Build a Calculator
-- 📁 [Ver ejercicio](./13-build-a-calculator)
+- 📁 [Ver ejercicio](./013-build-a-calculator)
 
 ### 14. Build a Boolean Check Function
-- 📁 [Ver ejercicio](./14-build-boolean-check-function)
+- 📁 [Ver ejercicio](./014-build-boolean-check-function)
 
 ### 15. Build an Email Masker
-- 📁 [Ver ejercicio](./15-build-email-masker)
+- 📁 [Ver ejercicio](./015-build-email-masker)
 
 ### 16. Build a Loan Qualification Checker
-- 📁 [Ver ejercicio](./16-build-loan-qualification-checker)
+- 📁 [Ver ejercicio](./016-build-loan-qualification-checker)
 
 ### 17. Build a Celsius to Fahrenheit Converter
-- 📁 [Ver ejercicio](./17-build-celsius-to-fahrenheit-converter)
+- 📁 [Ver ejercicio](./017-build-celsius-to-fahrenheit-converter)
 
 ### 18. Build a Card Counting Assistant
-- 📁 [Ver ejercicio](./18-build-card-counting-assistant)
+- 📁 [Ver ejercicio](./018-build-card-counting-assistant)
 
 ### 19. Build a Leap Year Calculator
-- 📁 [Ver ejercicio](./19-build-leap-year-calculator)
+- 📁 [Ver ejercicio](./019-build-leap-year-calculator)
 
 ### 20. Implement the Truncate String Algorithm
-- 📁 [Ver ejercicio](./20-implement-truncate-string-algorithm)
+- 📁 [Ver ejercicio](./020-implement-truncate-string-algorithm)
 
 ### 21. Build a Confirm the Ending Tool
-- 📁 [Ver ejercicio](./21-build-confirm-the-ending-tool)
+- 📁 [Ver ejercicio](./021-build-confirm-the-ending-tool)
 
 ### 22. Build a Shopping List
-- 📁 [Ver ejercicio](./22-build-shopping-list)
+- 📁 [Ver ejercicio](./022-build-shopping-list)
 
 ### 23. Build a Lunch Picker Program
-- 📁 [Ver ejercicio](./23-build-lunch-picker-program)
+- 📁 [Ver ejercicio](./023-build-lunch-picker-program)
 
 ### 24. Build a Golf Score Translator
-- 📁 [Ver ejercicio](./24-build-golf-score-translator)
+- 📁 [Ver ejercicio](./024-build-golf-score-translator)
 
 ### 25. Build a Wildlife Tracker
-- 📁 [Ver ejercicio](./25-build-wildlife-tracker)
+- 📁 [Ver ejercicio](./025-build-wildlife-tracker)
 
 ### 26. Build a Cargo Manifest Validator
-- 📁 [Ver ejercicio](./26-build-cargo-manifest-validator)
+- 📁 [Ver ejercicio](./026-build-cargo-manifest-validator)
 
 ### 27. Build a Recipe Tracker
-- 📁 [Ver ejercicio](./27-build-recipe-tracker)
+- 📁 [Ver ejercicio](./027-build-recipe-tracker)
 
 ### 28. Build a Quiz Game
-- 📁 [Ver ejercicio](./28-build-quiz-game)
+- 📁 [Ver ejercicio](./028-build-quiz-game)
 
 ### 29. Build a Record Collection
-- 📁 [Ver ejercicio](./29-build-record-collection)
+- 📁 [Ver ejercicio](./029-build-record-collection)
 
 ### 30. Build a Word Counter
-- 📁 [Ver ejercicio](./30-build-word-counter)
+- 📁 [Ver ejercicio](./030-build-word-counter)
 
 ### 31. Build a Sentence Analyzer
-- 📁 [Ver ejercicio](./31-build-sentence-analyzer)
+- 📁 [Ver ejercicio](./031-build-sentence-analyzer)
 
 ### 32. Build a Space Mission Roster
-- 📁 [Ver ejercicio](./32-build-space-mission-roster)
+- 📁 [Ver ejercicio](./032-build-space-mission-roster)
 
 ### 33. Build a Heritage Library Catalog
-- 📁 [Ver ejercicio](./33-build-heritage-library-catalog)
+- 📁 [Ver ejercicio](./033-build-heritage-library-catalog)
 
 ### 34. Build a Longest Word Finder App
-- 📁 [Ver ejercicio](./34-build-longest-word-finder-app)
+- 📁 [Ver ejercicio](./034-build-longest-word-finder-app)
 
 ### 35. Build a Factorial Calculator
-- 📁 [Ver ejercicio](./35-build-factorial-calculator)
+- 📁 [Ver ejercicio](./035-build-factorial-calculator)
 
 ### 36. Mutations Algorithm
-- 📁 [Ver ejercicio](./36-mutations-algorithm)
+- 📁 [Ver ejercicio](./036-mutations-algorithm)
 
 ### 37. Implement the Chunky Monkey Algorithm
-- 📁 [Ver ejercicio](./37-chunky-monkey-algorithm)
+- 📁 [Ver ejercicio](./037-chunky-monkey-algorithm)
 
 ### 38. Build a Profile Lookup
-- 📁 [Ver ejercicio](./38-build-profile-lookup)
+- 📁 [Ver ejercicio](./038-build-profile-lookup)
 
 ### 39. Build a String Repeating Function
-- 📁 [Ver ejercicio](./39-build-string-repeating-function)
+- 📁 [Ver ejercicio](./039-build-string-repeating-function)
 
 ### 40. Build a Festival Crowd Flow Simulator
-- 📁 [Ver ejercicio](./40-build-festival-crowd-flow-simulator)
+- 📁 [Ver ejercicio](./040-build-festival-crowd-flow-simulator)
 
 ### 41. Build a Missing Letter Detector
-- 📁 [Ver ejercicio](./41-build-missing-letter-detector)
+- 📁 [Ver ejercicio](./041-build-missing-letter-detector)
 
 ### 42. Build a Smart Pantry Restocker
-- 📁 [Ver ejercicio](./42-build-smart-pantry-restocker)
+- 📁 [Ver ejercicio](./042-build-smart-pantry-restocker)
 
 ### 43. Build a Proofreading Tool
-- 📁 [Ver ejercicio](./43-build-proofreading-tool)
+- 📁 [Ver ejercicio](./043-build-proofreading-tool)
 
 ### 44. Build a String Inverter
-- 📁 [Ver ejercicio](./44-build-string-inverter)
+- 📁 [Ver ejercicio](./044-build-string-inverter)
 
 ### 45. Build the Largest Number Finder
-- 📁 [Ver ejercicio](./45-build-largest-number-finder)
+- 📁 [Ver ejercicio](./045-build-largest-number-finder)
 
 ### 46. Build a First Element Finder
-- 📁 [Ver ejercicio](./46-build-first-element-finder)
+- 📁 [Ver ejercicio](./046-build-first-element-finder)
 
 ### 47. Implement the Slice and Splice Algorithm
-- 📁 [Ver ejercicio](./47-slice-and-splice-algorithm)
+- 📁 [Ver ejercicio](./047-slice-and-splice-algorithm)
 
 ### 48. Build a Pyramid Generator
-- 📁 [Ver ejercicio](./48-build-pyramid-generator)
+- 📁 [Ver ejercicio](./048-build-pyramid-generator)
 
 ### 49. Build a Gradebook App
-- 📁 [Ver ejercicio](./49-build-gradebook-app)
+- 📁 [Ver ejercicio](./049-build-gradebook-app)
 
 ### 50. Build a Title Case Converter
-- 📁 [Ver ejercicio](./50-build-title-case-converter)
+- 📁 [Ver ejercicio](./050-build-title-case-converter)
 
 ### 51. Implement a Falsy Remover
-- 📁 [Ver ejercicio](./51-implement-falsy-remover)
+- 📁 [Ver ejercicio](./051-implement-falsy-remover)
 
 ### 52. Build an Inventory Management Program
-- 📁 [Ver ejercicio](./52-build-inventory-management-program)
+- 📁 [Ver ejercicio](./052-build-inventory-management-program)
 
 ### 53. Implement a Unique Sorted Union
-- 📁 [Ver ejercicio](./53-implement-unique-sorted-union)
+- 📁 [Ver ejercicio](./053-implement-unique-sorted-union)
 
 ### 54. Build a Password Generator App
-- 📁 [Ver ejercicio](./54-build-password-generator-app)
+- 📁 [Ver ejercicio](./054-build-password-generator-app)
 
 ### 55. Design a Sum All Numbers Algorithm
-- 📁 [Ver ejercicio](./55-sum-all-numbers-algorithm)
+- 📁 [Ver ejercicio](./055-sum-all-numbers-algorithm)
 
 ### 56. Implement a DNA Pair Generator
-- 📁 [Ver ejercicio](./56-implement-dna-pair-generator)
+- 📁 [Ver ejercicio](./056-implement-dna-pair-generator)
 
 ### 57. Implement an HTML Entity Converter
-- 📁 [Ver ejercicio](./57-html-entity-converter)
+- 📁 [Ver ejercicio](./057-html-entity-converter)
 
 ### 58. Build an Odd Fibonacci Sum Calculator
-- 📁 [Ver ejercicio](./58-odd-fibonacci-sum-calculator)
+- 📁 [Ver ejercicio](./058-odd-fibonacci-sum-calculator)
 
 ### 59. Implement an Element Skipper
-- 📁 [Ver ejercicio](./59-implement-element-skipper)
+- 📁 [Ver ejercicio](./059-implement-element-skipper)
 
 ### 60. Build a Playlist Remix Engine
-- 📁 [Ver ejercicio](./60-build-playlist-remix-engine)
+- 📁 [Ver ejercicio](./060-build-playlist-remix-engine)
 
 ### 61. Build a Library Manager
-- 📁 [Ver ejercicio](./61-build-library-manager)
+- 📁 [Ver ejercicio](./061-build-library-manager)
 
 ### 62. Build a Book Organizer
-- 📁 [Ver ejercicio](./62-build-book-organizer)
+- 📁 [Ver ejercicio](./062-build-book-organizer)
 
 ### 63. Implement a Sorted Index Finder
-- 📁 [Ver ejercicio](./63-sorted-index-finder)
+- 📁 [Ver ejercicio](./063-sorted-index-finder)
 
 ### 64. Build a Symmetric Difference Function
-- 📁 [Ver ejercicio](./64-build-symmetric-difference-function)
+- 📁 [Ver ejercicio](./064-build-symmetric-difference-function)
 
 ### 65. Implement a Value Remover Function
-- 📁 [Ver ejercicio](./65-implement-value-remover-function)
+- 📁 [Ver ejercicio](./065-implement-value-remover-function)
 
 ### 66. Implement a Matching Object Filter
-- 📁 [Ver ejercicio](./66-implement-matching-object-filter)
+- 📁 [Ver ejercicio](./066-implement-matching-object-filter)
 
 ### 67. Build a Prime Number Sum Calculator
-- 📁 [Ver ejercicio](./67-build-prime-number-sum-calculator)
+- 📁 [Ver ejercicio](./067-build-prime-number-sum-calculator)
 
 ### 68. Implement a Range-Based LCM Calculator
-- 📁 [Ver ejercicio](./68-range-based-lcm-calculator)
+- 📁 [Ver ejercicio](./068-range-based-lcm-calculator)
 
 ### 69. Create a Deep Flattening Tool
-- 📁 [Ver ejercicio](./69-create-deep-flattening-tool)
+- 📁 [Ver ejercicio](./069-create-deep-flattening-tool)
 
 ### 70. Build an All-True Property Validator
-- 📁 [Ver ejercicio](./70-build-all-true-property-validator)
+- 📁 [Ver ejercicio](./070-build-all-true-property-validator)
 
 ### 71. Build a Storytelling App
-- 📁 [Ver ejercicio](./71-build-storytelling-app)
+- 📁 [Ver ejercicio](./071-build-storytelling-app)
 
 ### 72. Build an Emoji Reactor
-- 📁 [Ver ejercicio](./72-build-emoji-reactor)
+- 📁 [Ver ejercicio](./072-build-emoji-reactor)
 
 ### 73. Build a Favorite Icon Toggler
-- 📁 [Ver ejercicio](./73-build-favorite-icon-toggler)
+- 📁 [Ver ejercicio](./073-build-favorite-icon-toggler)
 
 ### 74. Build a Music Instrument Filter
-- 📁 [Ver ejercicio](./74-build-music-instrument-filter)
+- 📁 [Ver ejercicio](./074-build-music-instrument-filter)
 
 ### 75. Build a Real Time Counter
-- 📁 [Ver ejercicio](./75-build-real-time-counter)
+- 📁 [Ver ejercicio](./075-build-real-time-counter)
 
 ### 76. Build a Lightbox Viewer
-- 📁 [Ver ejercicio](./76-build-lightbox-viewer)
+- 📁 [Ver ejercicio](./076-build-lightbox-viewer)
 
 ### 77. Build a Rock, Paper, Scissors Game
-- 📁 [Ver ejercicio](./77-build-rock-paper-scissors-game)
+- 📁 [Ver ejercicio](./077-build-rock-paper-scissors-game)
 
 ### 78. Build a Set of Football Team Cards
-- 📁 [Ver ejercicio](./78-build-football-team-cards)
+- 📁 [Ver ejercicio](./078-build-football-team-cards)
 
 ### 79. Build a Planets Tablist
-- 📁 [Ver ejercicio](./79-build-planets-tablist)
+- 📁 [Ver ejercicio](./079-build-planets-tablist)
 
 ### 80. Build a Note Taking App
-- 📁 [Ver ejercicio](./80-build-note-taking-app)
+- 📁 [Ver ejercicio](./080-build-note-taking-app)
 
 ### 81. Build a Theme Switcher
-- 📁 [Ver ejercicio](./81-build-theme-switcher)
+- 📁 [Ver ejercicio](./081-build-theme-switcher)
 
 ### 82. Debug a Random Background Color Changer
-- 📁 [Ver ejercicio](./82-debug-random-background-color-changer)
+- 📁 [Ver ejercicio](./082-debug-random-background-color-changer)
 
 ### 83. Build a Spam Filter
-- 📁 [Ver ejercicio](./83-build-spam-filter)
+- 📁 [Ver ejercicio](./083-build-spam-filter)
 
 ### 84. Build a Palindrome Checker
-- 📁 [Ver ejercicio](./84-build-palindrome-checker)
+- 📁 [Ver ejercicio](./084-build-palindrome-checker)
 
 ### 85. Build a RegEx Sandbox
-- 📁 [Ver ejercicio](./85-build-regex-sandbox)
+- 📁 [Ver ejercicio](./085-build-regex-sandbox)
 
 ### 86. Implement a Spinal Case Converter
-- 📁 [View Exercise](./86-implement-spinal-case-converter)
+- 📁 [View Exercise](./086-implement-spinal-case-converter)
 
 ### 87. Implement a Pig Latin Translator
-- 📁 [View Exercise](./87-implement-pig-latin-translator)
+- 📁 [View Exercise](./087-implement-pig-latin-translator)
 
 ### 88. Implement a Smart Word Replacement Function
-- 📁 [View Exercise](./88-implement-smart-word-replacement-function)
+- 📁 [View Exercise](./088-implement-smart-word-replacement-function)
 
 ### 89. Build a Markdown to HTML Converter 🏆
-- 📁 [View Project](./89-build-markdown-to-html-converter)
+- 📁 [View Project](./089-build-markdown-to-html-converter)
 - 🎓 JavaScript Certification Project
 
 ### 90. Build a Calorie Counter
-- 📁 [View Exercise](./90-build-calorie-counter)
+- 📁 [View Exercise](./090-build-calorie-counter)
 
 ### 91. Build a Customer Complaint Form
-- 📁 [View Exercise](./91-build-customer-complaint-form)
+- 📁 [View Exercise](./091-build-customer-complaint-form)
 
 ### 92. Build a Date Conversion Program
-- 📁 [View Exercise](./92-build-date-conversion-program)
+- 📁 [View Exercise](./092-build-date-conversion-program)
 
 ### 93. Build a Music Player
-- 📁 [View Exercise](./93-build-music-player)
+- 📁 [View Exercise](./093-build-music-player)
 
 ### 94. Build a Drum Machine 🏆
-- 📁 [View Project](./94-build-drum-machine)
+- 📁 [View Project](./094-build-drum-machine)
 - 🎓 JavaScript Certification Project
 
 ### 95. Build a Plant Nursery Catalog
-- 📁 [View Exercise](./95-build-plant-nursery-catalog)
+- 📁 [View Exercise](./095-build-plant-nursery-catalog)
 
 ### 96. Build a Voting System 🏆
-- 📁 [View Exercise](./96-build-voting-system)
+- 📁 [View Exercise](./096-build-voting-system)
 - 🎓 JavaScript Certification Project
 
 ### 97. Build a Todo App using Local Storage
-- 📁 [View Exercise](./97-build-todo-app-using-local-storage)
+- 📁 [View Exercise](./097-build-todo-app-using-local-storage)
 
 ### 98. Build a Bookmark Manager App
-- 📁 [View Exercise](./98-build-bookmark-manager-app)
+- 📁 [View Exercise](./098-build-bookmark-manager-app)
 
 ### 99. Build a Shopping Cart
-- 📁 [View Exercise](./99-build-shopping-cart)
+- 📁 [View Exercise](./099-build-shopping-cart)
 ---
 
 ## 🚀 Progreso | Progress
@@ -418,12 +418,13 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ## 🏆 Certification Projects
 
-- [x] [Markdown to HTML Converter](./89-build-markdown-to-html-converter)
-- [x] [94. Drum Machine](./94-build-drum-machine)
-- [x] [96. Build a Voting System](./96-build-voting-system)
+- [x] [Markdown to HTML Converter](./089-build-markdown-to-html-converter)
+- [x] [94. Drum Machine](./094-build-drum-machine)
+- [x] [96. Build a Voting System](./096-build-voting-system)
 
 ## 🧠 Objetivo | Goal
 
 Practicar lógica, estructuras y fundamentos de JavaScript para construir una base sólida en programación.
 
 Practice logic, structures, and JavaScript fundamentals to build a strong programming foundation.
+
