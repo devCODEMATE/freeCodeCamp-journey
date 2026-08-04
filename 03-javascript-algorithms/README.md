@@ -310,6 +310,13 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 099. Build a Shopping Cart
 - 📁 [View Exercise](./099-build-shopping-cart)
 
+### 100. Build a Project Idea Board
+- 📁 [View Exercise](./100-build-project-idea-board)
+
+### 101. Build a Bank Account Management Program 🏆
+- 📁 [View Project](./101-build-bank-account-management-program)
+- 🎓 JavaScript Certification Project
+
 ---
 
 ## 🚀 Progreso | Progress
@@ -413,8 +420,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 097. Build a Todo App using Local Storage
 - [x] 098. Build a Bookmark Manager App
 - [x] 099. Build a Shopping Cart
-- [ ] 100. Próximo ejercicio
-
+- [x] 100. Build a Project Idea Board
+- [x] 101. Build a Bank Account Management Program 🏆
+- [ ] 102. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
@@ -422,6 +430,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] [Markdown to HTML Converter](./089-build-markdown-to-html-converter)
 - [x] [94. Drum Machine](./094-build-drum-machine)
 - [x] [96. Build a Voting System](./096-build-voting-system)
+- [x] [101. Bank Account Management Program](./101-build-bank-account-management-program)
+
 
 ## 🧠 Objetivo | Goal
 
