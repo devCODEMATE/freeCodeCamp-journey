@@ -322,6 +322,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 103. Build a Countdown
 - 📁 [View Exercise](./103-build-countdown)
+
+### 104. Build a Range of Numbers Generator
+- 📁 [View Exercise](./104-build-range-of-numbers-generator)
 ---
 
 ## 🚀 Progreso | Progress
@@ -429,7 +432,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 101. Build a Bank Account Management Program 🏆
 - [x] 102. Build a Countup
 - [x] 103. Build a Countdown
-- [ ] 104. Próximo ejercicio
+- [x] 104. Build a Range of Numbers Generator
+- [ ] 105. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
