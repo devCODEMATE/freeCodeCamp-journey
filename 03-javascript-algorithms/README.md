@@ -317,6 +317,11 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - 📁 [View Project](./101-build-bank-account-management-program)
 - 🎓 JavaScript Certification Project
 
+### 102. Build a Countup
+- 📁 [View Exercise](./102-build-countup)
+
+### 103. Build a Countdown
+- 📁 [View Exercise](./103-build-countdown)
 ---
 
 ## 🚀 Progreso | Progress
@@ -422,7 +427,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 099. Build a Shopping Cart
 - [x] 100. Build a Project Idea Board
 - [x] 101. Build a Bank Account Management Program 🏆
-- [ ] 102. Próximo ejercicio
+- [x] 102. Build a Countup
+- [x] 103. Build a Countdown
+- [ ] 104. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
