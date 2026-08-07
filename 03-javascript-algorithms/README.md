@@ -328,6 +328,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 105. Build a Decimal to Binary Converter
 - 📁 [View Exercise](./105-build-decimal-to-binary-converter)
+
+### 106. Build a Permutation Generator
+- 📁 [View Exercise](./106-build-permutation-generator)
 ---
 
 ## 🚀 Progreso | Progress
@@ -437,7 +440,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 103. Build a Countdown
 - [x] 104. Build a Range of Numbers Generator
 - [x] 105. Build a Decimal to Binary Converter
-- [ ] 106. Próximo ejercicio
+- [x] 106. Build a Permutation Generator
+- [ ] 107. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
