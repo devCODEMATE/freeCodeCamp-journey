@@ -325,6 +325,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 104. Build a Range of Numbers Generator
 - 📁 [View Exercise](./104-build-range-of-numbers-generator)
+
+### 105. Build a Decimal to Binary Converter
+- 📁 [View Exercise](./105-build-decimal-to-binary-converter)
 ---
 
 ## 🚀 Progreso | Progress
@@ -433,7 +436,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 102. Build a Countup
 - [x] 103. Build a Countdown
 - [x] 104. Build a Range of Numbers Generator
-- [ ] 105. Próximo ejercicio
+- [x] 105. Build a Decimal to Binary Converter
+- [ ] 106. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
