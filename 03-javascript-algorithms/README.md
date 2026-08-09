@@ -355,6 +355,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 114. Implement the Selection Sort Algorithm
 - 📁 [View Exercise](./114-implement-selection-sort-algorithm)
+
+### 115. Implement the Insertion Sort Algorithm
+- 📁 [View Exercise](./115-implement-insertion-sort-algorithm)
 ---
 
 ## 🚀 Progreso | Progress
@@ -473,7 +476,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 112. Implement the Merge Sort Algorithm
 - [x] 113. Implement the Bubble Sort Algorithm
 - [x] 114. Implement the Selection Sort Algorithm
-- [ ] 115. Próximo ejercicio
+- [x] 115. Implement the Insertion Sort Algorithm
+- [ ] 116. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
