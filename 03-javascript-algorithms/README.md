@@ -337,6 +337,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 108. Implement Linked List Operations
 - 📁 [View Exercise](./108-implement-linked-list-operations)
+
+### 109. Implement a Stack
+- 📁 [View Exercise](./109-implement-stack)
 ---
 
 ## 🚀 Progreso | Progress
@@ -449,7 +452,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 106. Build a Permutation Generator
 - [x] 107. Build a Linked List
 - [x] 108. Implement Linked List Operations
-- [ ] 109. Próximo ejercicio
+- [x] 109. Implement a Stack
+- [ ] 110. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
