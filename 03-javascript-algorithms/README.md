@@ -349,6 +349,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 112. Implement the Merge Sort Algorithm
 - 📁 [View Exercise](./112-implement-merge-sort-algorithm)
+
+### 113. Implement the Bubble Sort Algorithm
+- 📁 [View Exercise](./113-implement-bubble-sort-algorithm)
 ---
 
 ## 🚀 Progreso | Progress
@@ -465,7 +468,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 110. Implement a Queue
 - [x] 111. Implement the Binary Search Algorithm
 - [x] 112. Implement the Merge Sort Algorithm
-- [ ] 113. Próximo ejercicio
+- [x] 113. Implement the Bubble Sort Algorithm
+- [ ] 114. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
