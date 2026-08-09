@@ -331,6 +331,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 106. Build a Permutation Generator
 - 📁 [View Exercise](./106-build-permutation-generator)
+
+### 107. Build a Linked List
+- 📁 [View Exercise](./107-build-linked-list)
 ---
 
 ## 🚀 Progreso | Progress
@@ -441,7 +444,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 104. Build a Range of Numbers Generator
 - [x] 105. Build a Decimal to Binary Converter
 - [x] 106. Build a Permutation Generator
-- [ ] 107. Próximo ejercicio
+- [x] 107. Build a Linked List
+- [ ] 108. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
