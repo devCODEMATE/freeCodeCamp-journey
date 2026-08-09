@@ -343,6 +343,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 110. Implement a Queue
 - 📁 [View Exercise](./110-implement-queue)
+
+### 111. Implement the Binary Search Algorithm
+- 📁 [View Exercise](./111-implement-binary-search-algorithm)
 ---
 
 ## 🚀 Progreso | Progress
@@ -457,7 +460,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 108. Implement Linked List Operations
 - [x] 109. Implement a Stack
 - [x] 110. Implement a Queue
-- [ ] 111. Próximo ejercicio
+- [x] 111. Implement the Binary Search Algorithm
+- [ ] 112. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
