@@ -346,6 +346,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 111. Implement the Binary Search Algorithm
 - 📁 [View Exercise](./111-implement-binary-search-algorithm)
+
+### 112. Implement the Merge Sort Algorithm
+- 📁 [View Exercise](./112-implement-merge-sort-algorithm)
 ---
 
 ## 🚀 Progreso | Progress
@@ -461,7 +464,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 109. Implement a Stack
 - [x] 110. Implement a Queue
 - [x] 111. Implement the Binary Search Algorithm
-- [ ] 112. Próximo ejercicio
+- [x] 112. Implement the Merge Sort Algorithm
+- [ ] 113. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
