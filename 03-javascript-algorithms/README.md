@@ -340,6 +340,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 109. Implement a Stack
 - 📁 [View Exercise](./109-implement-stack)
+
+### 110. Implement a Queue
+- 📁 [View Exercise](./110-implement-queue)
 ---
 
 ## 🚀 Progreso | Progress
@@ -453,7 +456,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 107. Build a Linked List
 - [x] 108. Implement Linked List Operations
 - [x] 109. Implement a Stack
-- [ ] 110. Próximo ejercicio
+- [x] 110. Implement a Queue
+- [ ] 111. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
