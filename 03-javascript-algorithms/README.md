@@ -334,6 +334,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 107. Build a Linked List
 - 📁 [View Exercise](./107-build-linked-list)
+
+### 108. Implement Linked List Operations
+- 📁 [View Exercise](./108-implement-linked-list-operations)
 ---
 
 ## 🚀 Progreso | Progress
@@ -445,7 +448,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 105. Build a Decimal to Binary Converter
 - [x] 106. Build a Permutation Generator
 - [x] 107. Build a Linked List
-- [ ] 108. Próximo ejercicio
+- [x] 108. Implement Linked List Operations
+- [ ] 109. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
