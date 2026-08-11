@@ -379,6 +379,9 @@ algorith### 108. Implement Linked List Operations
 
 ### 122. Build an Nth Fibonacci Number Calculator
 - 📁 [View Exercise](./122-build-nth-fibonacci-number-calculator)
+
+### 124. Build an Optional Arguments Sum Function
+- 📁 [View Exercise](./124-build-an-optional-arguments-sum-function)
 ---
 
 ## 🚀 Progreso | Progress
@@ -505,7 +508,8 @@ algorith### 108. Implement Linked List Operations
 - [x] 120. Implement the Depth-First Search Algorithm
 - [x] 121. Implement the N-Queens Algorithm
 - [x] 122. Build an Nth Fibonacci Number Calculator
-- [ ] 123. Próximo ejercicio
+- [x] 124. Build an Optional Arguments Sum Function
+- [ ] 125. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
