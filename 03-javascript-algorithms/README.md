@@ -335,7 +335,7 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 107. Build a Linked List
 - 📁 [View Exercise](./107-build-linked-list)
 
-### 108. Implement Linked List Operations
+algorith### 108. Implement Linked List Operations
 - 📁 [View Exercise](./108-implement-linked-list-operations)
 
 ### 109. Implement a Stack
@@ -367,6 +367,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 118. Build an Adjacency List to Matrix Converter
 - 📁 [View Exercise](./118-build-adjacency-list-to-matrix-converter)
+
+### 119. Implement the Breadth-First Search Algorithm
+- 📁 [View Exercise](./119-implement-breadth-first-search-algorithm)
 ---
 
 ## 🚀 Progreso | Progress
@@ -489,7 +492,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 116. Implement the Quicksort Algorithm
 - [x] 117. Implement the Shortest Path Algorithm
 - [x] 118. Build an Adjacency List to Matrix Converter
-- [ ] 119. Próximo ejercicio
+- [x] 119. Implement the Breadth-First Search Algorithm
+- [ ] 120. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
