@@ -382,6 +382,9 @@ algorith### 108. Implement Linked List Operations
 
 ### 124. Build an Optional Arguments Sum Function
 - 📁 [View Exercise](./124-build-an-optional-arguments-sum-function)
+
+### 125. Build a Sorting Visualizer
+- 📁 [View Exercise](./125-build-a-sorting-visualizer)
 ---
 
 ## 🚀 Progreso | Progress
@@ -509,7 +512,8 @@ algorith### 108. Implement Linked List Operations
 - [x] 121. Implement the N-Queens Algorithm
 - [x] 122. Build an Nth Fibonacci Number Calculator
 - [x] 124. Build an Optional Arguments Sum Function
-- [ ] 125. Próximo ejercicio
+- [x] 125. Build a Sorting Visualizer
+- [ ] 126. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
