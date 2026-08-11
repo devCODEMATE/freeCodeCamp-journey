@@ -376,6 +376,9 @@ algorith### 108. Implement Linked List Operations
 
 ### 121. Implement the N-Queens Algorithm
 - 📁 [View Exercise](./121-implement-n-queens-algorithm)
+
+### 122. Build an Nth Fibonacci Number Calculator
+- 📁 [View Exercise](./122-build-nth-fibonacci-number-calculator)
 ---
 
 ## 🚀 Progreso | Progress
@@ -501,7 +504,8 @@ algorith### 108. Implement Linked List Operations
 - [x] 119. Implement the Breadth-First Search Algorithm
 - [x] 120. Implement the Depth-First Search Algorithm
 - [x] 121. Implement the N-Queens Algorithm
-- [ ] 122. Próximo ejercicio
+- [x] 122. Build an Nth Fibonacci Number Calculator
+- [ ] 123. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
