@@ -363,7 +363,10 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - 📁 [View Exercise](./116-implement-quicksort-algorithm)
 
 ### 117. Implement the Shortest Path Algorithm
-- 📁 [View Exercise](./117-implement-shortest-path-algorithm)
+- 📁 [View Exercise](./117-implement-shortest-path-algorithm)7
+
+### 118. Build an Adjacency List to Matrix Converter
+- 📁 [View Exercise](./118-build-adjacency-list-to-matrix-converter)
 ---
 
 ## 🚀 Progreso | Progress
@@ -485,7 +488,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 115. Implement the Insertion Sort Algorithm
 - [x] 116. Implement the Quicksort Algorithm
 - [x] 117. Implement the Shortest Path Algorithm
-- [ ] 118. Próximo ejercicio
+- [x] 118. Build an Adjacency List to Matrix Converter
+- [ ] 119. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
