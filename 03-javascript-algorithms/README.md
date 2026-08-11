@@ -335,7 +335,7 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 ### 107. Build a Linked List
 - 📁 [View Exercise](./107-build-linked-list)
 
-algorith### 108. Implement Linked List Operations
+### 108. Implement Linked List Operations
 - 📁 [View Exercise](./108-implement-linked-list-operations)
 
 ### 109. Implement a Stack
@@ -391,6 +391,10 @@ algorith### 108. Implement Linked List Operations
 
 ### 127. Build an fCC Forum Leaderboard
 - 📁 [View Exercise](./127-build-an-fcc-forum-leaderboard)
+
+### 128. Build a Weather App
+- 📁 [View Exercise](./128-build-a-weather-app)
+- 🎓 JavaScript Certification Project
 ---
 
 ## 🚀 Progreso | Progress
@@ -521,7 +525,7 @@ algorith### 108. Implement Linked List Operations
 - [x] 125. Build a Sorting Visualizer
 - [x] 126. Build an fCC Authors Page
 - [x] 127. Build an fCC Forum Leaderboard
-- [ ] 128. Próximo ejercicio
+- [x] 128. Build a Weather App
 ---
 
 ## 🏆 Certification Projects
@@ -530,6 +534,7 @@ algorith### 108. Implement Linked List Operations
 - [x] [94. Drum Machine](./094-build-drum-machine)
 - [x] [96. Build a Voting System](./096-build-voting-system)
 - [x] [101. Bank Account Management Program](./101-build-bank-account-management-program)
+- [x] [128. Build a Weather App](./128-build-a-weather-app)
 
 
 ## 🧠 Objetivo | Goal

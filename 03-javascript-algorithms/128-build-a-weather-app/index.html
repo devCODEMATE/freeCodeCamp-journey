@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CodeMate Weather Lab</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="app__header">
+      <span class="app__dot"></span>
+      <h1 class="app__title">CodeMate<span class="app__accent">Weather</span></h1>
+    </header>
+
+    <p class="app__subtitle">Pick a city and check the current weather.</p>
+
+    <div class="controls">
+      <select id="city-select" class="controls__select">
+        <option value=""></option>
+        <option value="new york">New York</option>
+        <option value="los angeles">Los Angeles</option>
+        <option value="chicago">Chicago</option>
+        <option value="paris">Paris</option>
+        <option value="tokyo">Tokyo</option>
+        <option value="london">London</option>
+      </select>
+
+      <button id="get-weather-btn" class="controls__btn" type="button">
+        Get weather
+      </button>
+    </div>
+
+    <section id="weather-card" class="weather-card" hidden>
+      <p id="location" class="weather-card__location">—</p>
+
+      <div class="weather-card__main">
+        <img id="weather-icon" class="weather-card__icon" src="" alt="" />
+        <span id="main-temperature" class="weather-card__temp">--</span>
+      </div>
+
+      <p id="weather-main" class="weather-card__desc">—</p>
+
+      <div class="weather-card__stats">
+        <div class="weather-card__stat">
+          <span class="weather-card__label">Feels like</span>
+          <span id="feels-like" class="weather-card__value">--</span>
+        </div>
+        <div class="weather-card__stat">
+          <span class="weather-card__label">Humidity</span>
+          <span id="humidity" class="weather-card__value">--</span>
+        </div>
+        <div class="weather-card__stat">
+          <span class="weather-card__label">Wind</span>
+          <span id="wind" class="weather-card__value">--</span>
+        </div>
+        <div class="weather-card__stat">
+          <span class="weather-card__label">Wind gust</span>
+          <span id="wind-gust" class="weather-card__value">--</span>
+        </div>
+      </div>
+    </section>
+
+    <footer class="app__footer">
+      <p>Weather data via freeCodeCamp API · Built by CodeMate</p>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
