@@ -385,6 +385,9 @@ algorith### 108. Implement Linked List Operations
 
 ### 125. Build a Sorting Visualizer
 - 📁 [View Exercise](./125-build-a-sorting-visualizer)
+
+### 126. Build an fCC Authors Page
+- 📁 [View Exercise](./126-build-an-fcc-authors-page)
 ---
 
 ## 🚀 Progreso | Progress
@@ -513,7 +516,8 @@ algorith### 108. Implement Linked List Operations
 - [x] 122. Build an Nth Fibonacci Number Calculator
 - [x] 124. Build an Optional Arguments Sum Function
 - [x] 125. Build a Sorting Visualizer
-- [ ] 126. Próximo ejercicio
+- [x] 126. Build an fCC Authors Page
+- [ ] 127. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
