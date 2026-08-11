@@ -370,6 +370,9 @@ algorith### 108. Implement Linked List Operations
 
 ### 119. Implement the Breadth-First Search Algorithm
 - 📁 [View Exercise](./119-implement-breadth-first-search-algorithm)
+
+### 120. Implement the Depth-First Search Algorithm
+- 📁 [View Exercise](./120-implement-depth-first-search-algorithm)
 ---
 
 ## 🚀 Progreso | Progress
@@ -493,7 +496,8 @@ algorith### 108. Implement Linked List Operations
 - [x] 117. Implement the Shortest Path Algorithm
 - [x] 118. Build an Adjacency List to Matrix Converter
 - [x] 119. Implement the Breadth-First Search Algorithm
-- [ ] 120. Próximo ejercicio
+- [x] 120. Implement the Depth-First Search Algorithm
+- [ ] 121. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
