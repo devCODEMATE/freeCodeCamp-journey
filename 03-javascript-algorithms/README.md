@@ -361,6 +361,9 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 
 ### 116. Implement the Quicksort Algorithm
 - 📁 [View Exercise](./116-implement-quicksort-algorithm)
+
+### 117. Implement the Shortest Path Algorithm
+- 📁 [View Exercise](./117-implement-shortest-path-algorithm)
 ---
 
 ## 🚀 Progreso | Progress
@@ -481,7 +484,8 @@ This module contains exercises from the freeCodeCamp JavaScript curriculum.
 - [x] 114. Implement the Selection Sort Algorithm
 - [x] 115. Implement the Insertion Sort Algorithm
 - [x] 116. Implement the Quicksort Algorithm
-- [ ] 117. Próximo ejercicio
+- [x] 117. Implement the Shortest Path Algorithm
+- [ ] 118. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
