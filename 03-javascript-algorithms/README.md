@@ -388,6 +388,9 @@ algorith### 108. Implement Linked List Operations
 
 ### 126. Build an fCC Authors Page
 - 📁 [View Exercise](./126-build-an-fcc-authors-page)
+
+### 127. Build an fCC Forum Leaderboard
+- 📁 [View Exercise](./127-build-an-fcc-forum-leaderboard)
 ---
 
 ## 🚀 Progreso | Progress
@@ -517,7 +520,8 @@ algorith### 108. Implement Linked List Operations
 - [x] 124. Build an Optional Arguments Sum Function
 - [x] 125. Build a Sorting Visualizer
 - [x] 126. Build an fCC Authors Page
-- [ ] 127. Próximo ejercicio
+- [x] 127. Build an fCC Forum Leaderboard
+- [ ] 128. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
