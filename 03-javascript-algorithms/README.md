@@ -373,6 +373,9 @@ algorith### 108. Implement Linked List Operations
 
 ### 120. Implement the Depth-First Search Algorithm
 - 📁 [View Exercise](./120-implement-depth-first-search-algorithm)
+
+### 121. Implement the N-Queens Algorithm
+- 📁 [View Exercise](./121-implement-n-queens-algorithm)
 ---
 
 ## 🚀 Progreso | Progress
@@ -497,7 +500,8 @@ algorith### 108. Implement Linked List Operations
 - [x] 118. Build an Adjacency List to Matrix Converter
 - [x] 119. Implement the Breadth-First Search Algorithm
 - [x] 120. Implement the Depth-First Search Algorithm
-- [ ] 121. Próximo ejercicio
+- [x] 121. Implement the N-Queens Algorithm
+- [ ] 122. Próximo ejercicio
 ---
 
 ## 🏆 Certification Projects
