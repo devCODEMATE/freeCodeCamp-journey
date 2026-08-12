@@ -160,7 +160,7 @@ Me interesa especialmente la combinación entre:
 | -- | --------------------------------------- | ---------------- | ----------- | -------: |
 | 01 | Responsive Web Design                   | HTML · CSS       | ✅ Completed |    66/66 |
 | 02 | JavaScript Algorithms & Data Structures | JavaScript       | ✅ Completed |  128/128 |
-| 03 | Front End Libraries                     | React · Redux    | ⏳ Pending   |        — |
+| 03 | Front End Libraries                     | React · Redux    | ⏳ En curso  |        — |
 | 04 | Data Visualization                      | D3.js            | ⏳ Pending   |        — |
 | 05 | Back End Development                    | Node.js · Python | ⏳ Pending   |        — |
 
