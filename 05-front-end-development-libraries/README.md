@@ -22,6 +22,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 ### 006. Build a Color Picker App
 - 📁 [View Exercise](./006-build-a-color-picker-app)
 
+### 007. Build a Fruit Search App
+- 📁 [View Exercise](./007-build-a-fruit-search-app)
+
 ## Progreso
 
 - [x] 001. Build a Reusable Mega Navbar
@@ -30,4 +33,5 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 004. Build a Mood Board
 - [x] 005. Toggle Text App
 - [x] 006. Build a Color Picker App
-- [ ] 007. Próximo ejercicio
+- [x] 007. Build a Fruit Search App
+- [ ] 008. Próximo ejercicio
