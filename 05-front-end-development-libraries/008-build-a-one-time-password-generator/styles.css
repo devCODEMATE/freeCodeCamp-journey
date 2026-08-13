@@ -1,0 +1,129 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --navy: #073b4c;
+  --blue: #3b82f6;
+  --orange: #f97316;
+  --yellow: #ffd166;
+  --white: #ffffff;
+  --light-grey: #f4f4f4;
+  --dark-grey: #1b1b32;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background:
+    linear-gradient(
+      135deg,
+      var(--navy),
+      var(--blue)
+    );
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#root {
+  width: 100%;
+  max-width: 480px;
+}
+
+.container {
+  width: 100%;
+  padding: 35px 25px;
+  border: 3px solid var(--yellow);
+  border-radius: 16px;
+  background-color: var(--white);
+  text-align: center;
+  box-shadow: 0 16px 35px rgb(0 0 0 / 25%);
+}
+
+#otp-title {
+  margin-top: 0;
+  color: var(--navy);
+  font-size: 2rem;
+}
+
+#otp-display {
+  min-height: 76px;
+  margin: 24px 0 16px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px dashed var(--blue);
+  border-radius: 10px;
+  background-color: var(--light-grey);
+  color: var(--dark-grey);
+  font-family: monospace;
+  font-size: 1.45rem;
+  letter-spacing: 3px;
+}
+
+#otp-timer {
+  min-height: 24px;
+  margin: 15px 0;
+  color: var(--navy);
+  font-weight: 700;
+}
+
+#generate-otp-button {
+  padding: 12px 22px;
+  border: 2px solid var(--orange);
+  border-radius: 8px;
+  background-color: var(--orange);
+  color: var(--white);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease,
+    transform 0.2s ease;
+}
+
+#generate-otp-button:hover:not(:disabled) {
+  background-color: var(--white);
+  color: var(--orange);
+  transform: translateY(-2px);
+}
+
+#generate-otp-button:focus-visible {
+  outline: 3px solid var(--blue);
+  outline-offset: 3px;
+}
+
+#generate-otp-button:disabled {
+  border-color: #9ca3af;
+  background-color: #9ca3af;
+  color: #eeeeee;
+  cursor: not-allowed;
+  transform: none;
+}
+
+@media (max-width: 420px) {
+  .container {
+    padding: 25px 15px;
+  }
+
+  #otp-title {
+    font-size: 1.7rem;
+  }
+
+  #otp-display {
+    font-size: 1.1rem;
+    letter-spacing: 2px;
+  }
+}

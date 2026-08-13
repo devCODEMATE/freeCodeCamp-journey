@@ -25,6 +25,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 ### 007. Build a Fruit Search App
 - 📁 [View Exercise](./007-build-a-fruit-search-app)
 
+### 008. Build a One-Time Password Generator
+- 📁 [View Exercise](./008-build-a-one-time-password-generator)
+
 ## Progreso
 
 - [x] 001. Build a Reusable Mega Navbar
@@ -34,4 +37,5 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 005. Toggle Text App
 - [x] 006. Build a Color Picker App
 - [x] 007. Build a Fruit Search App
-- [ ] 008. Próximo ejercicio
+- [x] 008. Build a One-Time Password Generator
+- [ ] 009. Próximo ejercicio
