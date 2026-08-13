@@ -19,6 +19,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 ### 005. Toggle Text App
 - 📁 [View Workshop](./005-toggle-text-app)
 
+### 006. Build a Color Picker App
+- 📁 [View Exercise](./006-build-a-color-picker-app)
+
 ## Progreso
 
 - [x] 001. Build a Reusable Mega Navbar
@@ -26,4 +29,5 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 003. Build a Reusable Profile Card Component
 - [x] 004. Build a Mood Board
 - [x] 005. Toggle Text App
-- [ ] 006. Próximo ejercicio
+- [x] 006. Build a Color Picker App
+- [ ] 007. Próximo ejercicio
