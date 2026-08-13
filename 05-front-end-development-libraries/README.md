@@ -28,6 +28,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 ### 008. Build a One-Time Password Generator
 - 📁 [View Exercise](./008-build-a-one-time-password-generator)
 
+### 009. Build a Superhero Application Form
+- 📁 [View Exercise](./009-build-a-superhero-application-form)
+
 ## Progreso
 
 - [x] 001. Build a Reusable Mega Navbar
@@ -38,4 +41,5 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 006. Build a Color Picker App
 - [x] 007. Build a Fruit Search App
 - [x] 008. Build a One-Time Password Generator
-- [ ] 009. Próximo ejercicio
+- [x] 009. Build a Superhero Application Form
+- [ ] 010. Próximo ejercicio
