@@ -19,9 +19,15 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - 🧪 [freeCodeCamp Workshop](https://www.freecodecamp.org/learn/front-end-development-libraries-v9/#workshop-reusable-profile-card-component)
 - 📁 [View Exercise](./003-build-a-reusable-profile-card-component)
 
+### 004. Build a Mood Board
+
+- 🧪 [freeCodeCamp Lab](https://www.freecodecamp.org/learn/front-end-development-libraries-v9/#lab-mood-board)
+- 📁 [View Exercise](./004-build-a-mood-board)
+
 ## Progreso
 
 - [x] 001. Build a Reusable Mega Navbar
 - [x] 002. Build a Reusable Footer
 - [x] 003. Build a Reusable Profile Card Component
-- [ ] 004. Próximo ejercicio
+- [x] 004. Build a Mood Board
+- [ ] 005. Próximo ejercicio
