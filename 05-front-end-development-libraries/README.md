@@ -31,6 +31,11 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 ### 009. Build a Superhero Application Form
 - 📁 [View Exercise](./009-build-a-superhero-application-form)
 
+### 010. Build an Event RSVP
+- 📁 [View Exercise](./010-build-an-event-rsvp)
+
+-----
+
 ## Progreso
 
 - [x] 001. Build a Reusable Mega Navbar
@@ -42,4 +47,5 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 007. Build a Fruit Search App
 - [x] 008. Build a One-Time Password Generator
 - [x] 009. Build a Superhero Application Form
-- [ ] 010. Próximo ejercicio
+- [x] 010. Build an Event RSVP
+- [ ] 011. Próximo ejercicio
