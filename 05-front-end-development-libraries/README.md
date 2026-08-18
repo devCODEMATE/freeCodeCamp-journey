@@ -34,6 +34,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 ### 010. Build an Event RSVP
 - 📁 [View Exercise](./010-build-an-event-rsvp)
 
+### 011. Build a Shopping List App
+- 📁 [View Exercise](./011-build-a-shopping-list-app)
+
 -----
 
 ## Progreso
@@ -48,4 +51,5 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 008. Build a One-Time Password Generator
 - [x] 009. Build a Superhero Application Form
 - [x] 010. Build an Event RSVP
-- [ ] 011. Próximo ejercicio
+- [x] 011. Build a Shopping List App
+- [ ] 012. Próximo ejercicio
