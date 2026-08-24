@@ -37,6 +37,11 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 ### 011. Build a Shopping List App
 - 📁 [View Exercise](./011-build-a-shopping-list-app)
 
+### 012. Build a Currency Converter
+
+- 🏆 [freeCodeCamp Certification Project](https://www.freecodecamp.org/learn/front-end-development-libraries-v9/#lab-currency-converter)
+- 📁 [View Exercise](./012-build-a-currency-converter)
+
 -----
 
 ## Progreso
@@ -52,4 +57,10 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 009. Build a Superhero Application Form
 - [x] 010. Build an Event RSVP
 - [x] 011. Build a Shopping List App
-- [ ] 012. Próximo ejercicio
+- [x] 012. Build a Currency Converter
+- [ ] 013. Próximo ejercicio
+
+
+## 🏆 Certification Projects
+
+- [Build a Currency Converter](./012-build-a-currency-converter)
