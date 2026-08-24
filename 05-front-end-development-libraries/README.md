@@ -47,6 +47,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - 🏆 [freeCodeCamp Certification Project](https://www.freecodecamp.org/learn/front-end-development-libraries-v9/#lab-tic-tac-toe)
 - 📁 [View Exercise](./013-build-a-tic-tac-toe-game)
 
+### 014. Build an Error Message
+- 📁 [View Exercise](./014-build-an-error-message)
+
 -----
 
 ## Progreso
@@ -64,7 +67,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 011. Build a Shopping List App
 - [x] 012. Build a Currency Converter
 - [x] 013. Build a Tic-Tac-Toe Game
-- [ ] 014. Próximo ejercicio
+- [x] 014. Build an Error Message
+- [ ] 015. Próximo ejercicio
 
 
 ## 🏆 Certification Projects
