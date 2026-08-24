@@ -42,6 +42,11 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - 🏆 [freeCodeCamp Certification Project](https://www.freecodecamp.org/learn/front-end-development-libraries-v9/#lab-currency-converter)
 - 📁 [View Exercise](./012-build-a-currency-converter)
 
+### 013. Build a Tic-Tac-Toe Game
+
+- 🏆 [freeCodeCamp Certification Project](https://www.freecodecamp.org/learn/front-end-development-libraries-v9/#lab-tic-tac-toe)
+- 📁 [View Exercise](./013-build-a-tic-tac-toe-game)
+
 -----
 
 ## Progreso
@@ -58,9 +63,11 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 010. Build an Event RSVP
 - [x] 011. Build a Shopping List App
 - [x] 012. Build a Currency Converter
-- [ ] 013. Próximo ejercicio
+- [x] 013. Build a Tic-Tac-Toe Game
+- [ ] 014. Próximo ejercicio
 
 
 ## 🏆 Certification Projects
 
 - [Build a Currency Converter](./012-build-a-currency-converter)
+- [Build a Tic-Tac-Toe Game](./013-build-a-tic-tac-toe-game)
