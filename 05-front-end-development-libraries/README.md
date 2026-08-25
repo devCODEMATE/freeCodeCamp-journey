@@ -64,6 +64,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 
 ### 019. Build a Type-Safe User Profile
 - 📁 [View Exercise](./019-build-a-type-safe-user-profile)
+
+### 020. Build a Type-Safe Math Toolkit
+- 📁 [View Exercise](./020-build-a-type-safe-math-toolkit)
 -----
 
 ## Progreso
@@ -87,7 +90,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 017. Build a Music Shopping Cart Page
 - [x] 018. Design a Photography Exhibit
 - [x] 019. Build a Type-Safe User Profile
-- [ ] 020. Próximo ejercicio
+- [x] 020. Build a Type-Safe Math Toolkit
+- [ ] 021. Próximo ejercicio
 
 
 ## 🏆 Certification Projects
