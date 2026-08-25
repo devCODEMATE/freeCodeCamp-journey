@@ -55,6 +55,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 
 ### 016. Build a Pricing Component
 - 📁 [View Exercise](./016-build-a-pricing-component)
+
+### 017. Build a Music Shopping Cart Page
+- 📁 [View Exercise](./017-build-a-music-shopping-cart-page)
 -----
 
 ## Progreso
@@ -75,7 +78,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 014. Build an Error Message
 - [x] 015. Build a CTA Component
 - [x] 016. Build a Pricing Component
-- [ ] 017. Próximo ejercicio
+- [x] 017. Build a Music Shopping Cart Page
+- [ ] 018. Próximo ejercicio
 
 
 ## 🏆 Certification Projects
