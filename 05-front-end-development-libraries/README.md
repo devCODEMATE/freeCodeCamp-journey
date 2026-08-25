@@ -58,6 +58,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 
 ### 017. Build a Music Shopping Cart Page
 - 📁 [View Exercise](./017-build-a-music-shopping-cart-page)
+
+### 018. Design a Photography Exhibit
+- 📁 [View Exercise](./018-design-a-photography-exhibit)
 -----
 
 ## Progreso
@@ -79,6 +82,7 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 015. Build a CTA Component
 - [x] 016. Build a Pricing Component
 - [x] 017. Build a Music Shopping Cart Page
+- [x] 018. Design a Photography Exhibit
 - [ ] 018. Próximo ejercicio
 
 
@@ -86,3 +90,4 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 
 - [Build a Currency Converter](./012-build-a-currency-converter)
 - [Build a Tic-Tac-Toe Game](./013-build-a-tic-tac-toe-game)
+- [Design a Photography Exhibit](./018-design-a-photography-exhibit)
