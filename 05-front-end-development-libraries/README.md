@@ -52,6 +52,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 
 ### 015. Build a CTA Component
 - 📁 [View Exercise](./015-build-a-cta-component)
+
+### 016. Build a Pricing Component
+- 📁 [View Exercise](./016-build-a-pricing-component)
 -----
 
 ## Progreso
@@ -71,7 +74,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 013. Build a Tic-Tac-Toe Game
 - [x] 014. Build an Error Message
 - [x] 015. Build a CTA Component
-- [ ] 016. Próximo ejercicio
+- [x] 016. Build a Pricing Component
+- [ ] 017. Próximo ejercicio
 
 
 ## 🏆 Certification Projects
