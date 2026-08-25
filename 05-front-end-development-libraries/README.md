@@ -50,6 +50,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 ### 014. Build an Error Message
 - 📁 [View Exercise](./014-build-an-error-message)
 
+### 015. Build a CTA Component
+- 📁 [View Exercise](./015-build-a-cta-component)
 -----
 
 ## Progreso
@@ -68,7 +70,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 012. Build a Currency Converter
 - [x] 013. Build a Tic-Tac-Toe Game
 - [x] 014. Build an Error Message
-- [ ] 015. Próximo ejercicio
+- [x] 015. Build a CTA Component
+- [ ] 016. Próximo ejercicio
 
 
 ## 🏆 Certification Projects
