@@ -61,6 +61,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 
 ### 018. Design a Photography Exhibit
 - 📁 [View Exercise](./018-design-a-photography-exhibit)
+
+### 019. Build a Type-Safe User Profile
+- 📁 [View Exercise](./019-build-a-type-safe-user-profile)
 -----
 
 ## Progreso
@@ -83,7 +86,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 016. Build a Pricing Component
 - [x] 017. Build a Music Shopping Cart Page
 - [x] 018. Design a Photography Exhibit
-- [ ] 018. Próximo ejercicio
+- [x] 019. Build a Type-Safe User Profile
+- [ ] 020. Próximo ejercicio
 
 
 ## 🏆 Certification Projects
