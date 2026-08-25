@@ -67,6 +67,11 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 
 ### 020. Build a Type-Safe Math Toolkit
 - 📁 [View Exercise](./020-build-a-type-safe-math-toolkit)
+
+### 021. Build a Shape Manager
+- 📁 [View Exercise](./021-build-a-shape-manager)
+
+
 -----
 
 ## Progreso
@@ -91,7 +96,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 018. Design a Photography Exhibit
 - [x] 019. Build a Type-Safe User Profile
 - [x] 020. Build a Type-Safe Math Toolkit
-- [ ] 021. Próximo ejercicio
+- [x] 021. Build a Shape Manager
+- [ ] 022. Próximo ejercicio
 
 
 ## 🏆 Certification Projects
