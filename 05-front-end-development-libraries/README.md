@@ -77,6 +77,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 ### 023. Build a Bug Emoji Picker
 - 📁 [View Workshop](./023-build-a-bug-emoji-picker)
 
+### 024. Build a Product Showcase
+- 📁 [View Lab](./024-build-a-product-showcase)
+
 
 -----
 
@@ -105,7 +108,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 021. Build a Shape Manager
 - [x] 022. Build a Motorcycle Shop
 - [x] 023. Build a Bug Emoji Picker
-- [ ] 024. Próximo ejercicio
+- [x] 024. Build a Product Showcase
+- [ ] 025. Próximo ejercicio
 
 
 
