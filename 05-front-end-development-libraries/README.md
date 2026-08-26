@@ -71,6 +71,12 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 ### 021. Build a Shape Manager
 - 📁 [View Exercise](./021-build-a-shape-manager)
 
+### 022. Build a Motorcycle Shop
+- 📁 [View Lab](./022-build-a-motorcycle-shop)
+
+### 023. Build a Bug Emoji Picker
+- 📁 [View Workshop](./023-build-a-bug-emoji-picker)
+
 
 -----
 
@@ -97,7 +103,10 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 019. Build a Type-Safe User Profile
 - [x] 020. Build a Type-Safe Math Toolkit
 - [x] 021. Build a Shape Manager
-- [ ] 022. Próximo ejercicio
+- [x] 022. Build a Motorcycle Shop
+- [x] 023. Build a Bug Emoji Picker
+- [ ] 024. Próximo ejercicio
+
 
 
 ## 🏆 Certification Projects
