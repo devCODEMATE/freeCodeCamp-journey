@@ -80,6 +80,12 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 ### 024. Build a Product Showcase
 - 📁 [View Lab](./024-build-a-product-showcase)
 
+### 025. Build a Fortune Telling App
+- 📁 [View Workshop](./025-build-a-fortune-telling-app)
+
+### 026. Build a Football Player Card Builder
+- 📁 [View Workshop](./026-build-a-football-player-card-builder)
+
 
 -----
 
@@ -109,7 +115,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 022. Build a Motorcycle Shop
 - [x] 023. Build a Bug Emoji Picker
 - [x] 024. Build a Product Showcase
-- [ ] 025. Próximo ejercicio
+- [x] 025. Build a Fortune Telling App
+- [x] 026. Build a Football Player Card Builder
+- [ ] 027. Próximo ejercicio
 
 
 
