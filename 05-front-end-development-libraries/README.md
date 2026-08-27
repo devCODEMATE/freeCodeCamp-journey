@@ -89,6 +89,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 ### 027. Build a Flashcard Quiz App
 - 📁 [View Workshop](./027-build-a-flashcard-quiz-app)
 
+### 028. Build a Digital Pet Game
+- 📁 [View Workshop](./028-build-a-digital-pet-game)
+
 
 -----
 
@@ -121,7 +124,7 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 025. Build a Fortune Telling App
 - [x] 026. Build a Football Player Card Builder
 - [x] 027. Build a Flashcard Quiz App
-= [ ] 028. Próximo ejercicio
+- [x] 028. Build a Digital Pet Game
 
 
 
@@ -131,3 +134,4 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [Build a Tic-Tac-Toe Game](./013-build-a-tic-tac-toe-game)
 - [Design a Photography Exhibit](./018-design-a-photography-exhibit)
 - [Build a Flashcard Quiz App](./027-build-a-flashcard-quiz-app)
+- [Build a Digital Pet Game](./028-build-a-digital-pet-game)
