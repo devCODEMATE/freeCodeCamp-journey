@@ -1,0 +1,157 @@
+:root {
+  --bg: #f4f6fb;
+  --card-bg: #ffffff;
+  --primary: #5b6bf5;
+  --primary-dark: #4451d1;
+  --danger: #e5533d;
+  --text: #22273a;
+  --text-muted: #6b7180;
+  --border: #e2e5ee;
+  --radius: 14px;
+  --shadow: 0 8px 24px rgba(34, 39, 58, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 48px 20px;
+  background-color: var(--bg);
+  font-family: "Segoe UI", system-ui, sans-serif;
+  color: var(--text);
+}
+
+.app {
+  width: 100%;
+  max-width: 420px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin: 0;
+}
+
+.flashcard {
+  width: 100%;
+  height: 220px;
+  perspective: 1200px;
+  cursor: pointer;
+}
+
+.flashcard-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.5s;
+  transform-style: preserve-3d;
+}
+
+.flashcard.flipped .flashcard-inner {
+  transform: rotateY(180deg);
+}
+
+.flashcard-front,
+.flashcard-back {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  backface-visibility: hidden;
+}
+
+.flashcard-front {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border);
+}
+
+.flashcard-back {
+  background-color: var(--primary);
+  color: #ffffff;
+  transform: rotateY(180deg);
+}
+
+.flashcard-front p,
+.flashcard-back p {
+  margin: 0;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+#delete-btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 999px;
+  background-color: var(--danger);
+  color: #ffffff;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+#delete-btn:hover {
+  opacity: 0.9;
+}
+
+#entry-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px;
+  background-color: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+#entry-form label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+#entry-form textarea {
+  width: 100%;
+  min-height: 60px;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-family: inherit;
+  font-size: 0.95rem;
+  resize: vertical;
+}
+
+#entry-form textarea:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(91, 107, 245, 0.15);
+}
+
+#entry-form button[type="submit"] {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 999px;
+  background-color: var(--primary);
+  color: #ffffff;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+#entry-form button[type="submit"]:hover {
+  background-color: var(--primary-dark);
+}

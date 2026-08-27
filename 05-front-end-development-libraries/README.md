@@ -86,6 +86,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 ### 026. Build a Football Player Card Builder
 - 📁 [View Workshop](./026-build-a-football-player-card-builder)
 
+### 027. Build a Flashcard Quiz App
+- 📁 [View Workshop](./027-build-a-flashcard-quiz-app)
+
 
 -----
 
@@ -117,7 +120,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [x] 024. Build a Product Showcase
 - [x] 025. Build a Fortune Telling App
 - [x] 026. Build a Football Player Card Builder
-- [ ] 027. Próximo ejercicio
+- [x] 027. Build a Flashcard Quiz App
+= [ ] 028. Próximo ejercicio
 
 
 
@@ -126,3 +130,4 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo **
 - [Build a Currency Converter](./012-build-a-currency-converter)
 - [Build a Tic-Tac-Toe Game](./013-build-a-tic-tac-toe-game)
 - [Design a Photography Exhibit](./018-design-a-photography-exhibit)
+- [Build a Flashcard Quiz App](./027-build-a-flashcard-quiz-app)
