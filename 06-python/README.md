@@ -25,6 +25,9 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 #### 005. Build a Travel Weather Planner
 - 📁 [View lab](./005-build-a-travel-weather-planner)
 
+#### 006. Build an Apply Discount Function
+- 📁 [View lab](./006-build-an-apply-discount-function)
+
 ### Progress
 
 - [x] 001. Build a Report Card Printer
@@ -32,7 +35,8 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - [x] 003. Build a Bill Splitter
 - [x] 004. Build a Movie Ticket Booking Calculator
 - [x] 005. Build a Travel Weather Planner
-- [ ] 006. Next exercise
+- [x] 006. Build an Apply Discount Function
+- [ ] 007. Next exercise
 
 ### 🏆 Certification Projects
 
@@ -61,6 +65,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 #### 005. Build a Travel Weather Planner
 - 📁 [Ver laboratorio](./005-build-a-travel-weather-planner)
 
+#### 006. Build an Apply Discount Function
+- 📁 [Ver laboratorio](./006-build-an-apply-discount-function)
+
 ### Progreso
 
 - [x] 001. Build a Report Card Printer
@@ -68,7 +75,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - [x] 003. Build a Bill Splitter
 - [x] 004. Build a Movie Ticket Booking Calculator
 - [x] 005. Build a Travel Weather Planner
-- [ ] 006. Próximo ejercicio
+- [x] 006. Build an Apply Discount Function
+- [ ] 007. Próximo ejercicio
 
 ### 🏆 Proyectos de certificación
 
