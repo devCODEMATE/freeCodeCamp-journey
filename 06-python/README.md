@@ -22,13 +22,17 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 #### 004. Build a Movie Ticket Booking Calculator
 - 📁 [View workshop](./004-build-a-movie-ticket-booking-calculator)
 
+#### 005. Build a Travel Weather Planner
+- 📁 [View lab](./005-build-a-travel-weather-planner)
+
 ### Progress
 
 - [x] 001. Build a Report Card Printer
 - [x] 002. Build an Employee Profile Generator
 - [x] 003. Build a Bill Splitter
 - [x] 004. Build a Movie Ticket Booking Calculator
-- [ ] 005. Next exercise
+- [x] 005. Build a Travel Weather Planner
+- [ ] 006. Next exercise
 
 ### 🏆 Certification Projects
 
@@ -54,13 +58,17 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 #### 004. Build a Movie Ticket Booking Calculator
 - 📁 [Ver workshop](./004-build-a-movie-ticket-booking-calculator)
 
+#### 005. Build a Travel Weather Planner
+- 📁 [Ver laboratorio](./005-build-a-travel-weather-planner)
+
 ### Progreso
 
 - [x] 001. Build a Report Card Printer
 - [x] 002. Build an Employee Profile Generator
 - [x] 003. Build a Bill Splitter
 - [x] 004. Build a Movie Ticket Booking Calculator
-- [ ] 005. Próximo ejercicio
+- [x] 005. Build a Travel Weather Planner
+- [ ] 006. Próximo ejercicio
 
 ### 🏆 Proyectos de certificación
 
