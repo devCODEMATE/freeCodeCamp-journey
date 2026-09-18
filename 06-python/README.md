@@ -31,6 +31,9 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 #### 007. Build a Caesar Cipher
 - 📁 [View workshop](./007-build-a-caesar-cipher)
 
+#### 008. Build an RPG Character
+- 📁 [Ver laboratorio](./008-build-an-rpg-character)
+
 ### Progress
 
 - [x] 001. Build a Report Card Printer
@@ -40,7 +43,8 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - [x] 005. Build a Travel Weather Planner
 - [x] 006. Build an Apply Discount Function
 - [x] 007. Build a Caesar Cipher
-- [ ] 008. Next exercise
+- [x] 008. Build an RPG Character
+- [ ] 009. Next exercise
 
 ### 🏆 Certification Projects
 
@@ -84,7 +88,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - [x] 005. Build a Travel Weather Planner
 - [x] 006. Build an Apply Discount Function
 - [x] 007. Build a Caesar Cipher
-- [ ] 008. Próximo ejercicio
+- [x] 008. Build an RPG Character
+- [ ] 009. Próximo ejercicio
 
 
 ### 🏆 Proyectos de certificación
