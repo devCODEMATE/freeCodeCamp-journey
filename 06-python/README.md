@@ -28,6 +28,9 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 #### 006. Build an Apply Discount Function
 - 📁 [View lab](./006-build-an-apply-discount-function)
 
+#### 007. Build a Caesar Cipher
+- 📁 [View workshop](./007-build-a-caesar-cipher)
+
 ### Progress
 
 - [x] 001. Build a Report Card Printer
@@ -36,7 +39,8 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - [x] 004. Build a Movie Ticket Booking Calculator
 - [x] 005. Build a Travel Weather Planner
 - [x] 006. Build an Apply Discount Function
-- [ ] 007. Next exercise
+- [x] 007. Build a Caesar Cipher
+- [ ] 008. Next exercise
 
 ### 🏆 Certification Projects
 
@@ -68,6 +72,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 #### 006. Build an Apply Discount Function
 - 📁 [Ver laboratorio](./006-build-an-apply-discount-function)
 
+#### 007. Build a Caesar Cipher
+- 📁 [Ver workshop](./007-build-a-caesar-cipher)
+
 ### Progreso
 
 - [x] 001. Build a Report Card Printer
@@ -76,7 +83,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - [x] 004. Build a Movie Ticket Booking Calculator
 - [x] 005. Build a Travel Weather Planner
 - [x] 006. Build an Apply Discount Function
-- [ ] 007. Próximo ejercicio
+- [x] 007. Build a Caesar Cipher
+- [ ] 008. Próximo ejercicio
+
 
 ### 🏆 Proyectos de certificación
 
