@@ -37,6 +37,9 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 #### 009. Build a Pin Extractor
 - 📁 [View workshop](./009-build-a-pin-extractor)
 
+#### 010. Build a Number Pattern Generator
+- 📁 [View lab](./010-build-a-number-pattern-generator)
+
 
 ### Progress
 
@@ -49,7 +52,8 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - [x] 007. Build a Caesar Cipher
 - [x] 008. Build an RPG Character
 - [x] 009. Build a Pin Extractor
-- [ ] 010. Next exercise
+- [x] 010. Build a Number Pattern Generator
+- [ ] 011. Next exercise
 
 ### 🏆 Certification Projects
 
@@ -90,6 +94,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 #### 009. Build a Pin Extractor
 - 📁 [Ver workshop](./009-build-a-pin-extractor)
 
+#### 010. Build a Number Pattern Generator
+- 📁 [Ver laboratorio](./010-build-a-number-pattern-generator)
+
 ### Progreso
 
 - [x] 001. Build a Report Card Printer
@@ -101,7 +108,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - [x] 007. Build a Caesar Cipher
 - [x] 008. Build an RPG Character
 - [x] 009. Build a Pin Extractor
-- [ ] 010. Próximo ejercicio
+- [x] 010. Build a Number Pattern Generator
+- [ ] 011. Próximo ejercicio
 
 
 ### 🏆 Proyectos de certificación
