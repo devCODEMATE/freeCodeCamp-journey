@@ -32,7 +32,11 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - 📁 [View workshop](./007-build-a-caesar-cipher)
 
 #### 008. Build an RPG Character
-- 📁 [Ver laboratorio](./008-build-an-rpg-character)
+- 📁 [Ver lab](./008-build-an-rpg-character)
+
+#### 009. Build a Pin Extractor
+- 📁 [View workshop](./009-build-a-pin-extractor)
+
 
 ### Progress
 
@@ -44,7 +48,8 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - [x] 006. Build an Apply Discount Function
 - [x] 007. Build a Caesar Cipher
 - [x] 008. Build an RPG Character
-- [ ] 009. Next exercise
+- [x] 009. Build a Pin Extractor
+- [ ] 010. Next exercise
 
 ### 🏆 Certification Projects
 
@@ -79,6 +84,12 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 #### 007. Build a Caesar Cipher
 - 📁 [Ver workshop](./007-build-a-caesar-cipher)
 
+#### 008. Build an RPG Character
+- 📁 [Ver laboratorio](./008-build-an-rpg-character)
+
+#### 009. Build a Pin Extractor
+- 📁 [Ver workshop](./009-build-a-pin-extractor)
+
 ### Progreso
 
 - [x] 001. Build a Report Card Printer
@@ -89,7 +100,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - [x] 006. Build an Apply Discount Function
 - [x] 007. Build a Caesar Cipher
 - [x] 008. Build an RPG Character
-- [ ] 009. Próximo ejercicio
+- [x] 009. Build a Pin Extractor
+- [ ] 010. Próximo ejercicio
 
 
 ### 🏆 Proyectos de certificación
