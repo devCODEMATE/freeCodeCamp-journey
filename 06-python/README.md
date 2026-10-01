@@ -43,6 +43,9 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 #### 011. Build a Medical Data Validator
 - 📁 [View workshop](./011-build-a-medical-data-validator)
 
+#### 012. Build a User Configuration Manager
+- 📁 [View certification project](./012-build-a-user-configuration-manager)
+
 
 ### Progress
 
@@ -57,12 +60,13 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - [x] 009. Build a Pin Extractor
 - [x] 010. Build a Number Pattern Generator
 - [x] 011. Build a Medical Data Validator
-- [ ] 012. Next exercise
+- [x] 012. Build a User Configuration Manager
+- [ ] 013. Next exercise
 
 ### 🏆 Certification Projects
 
-Certification projects will be added to this section as they are completed.
-
+#### 012. Build a User Configuration Manager
+- 📁 [View certification project](./012-build-a-user-configuration-manager)
 ---
 
 ## 🇪🇸 Español
@@ -104,6 +108,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 #### 011. Build a Medical Data Validator
 - 📁 [Ver workshop](./011-build-a-medical-data-validator)
 
+#### 012. Build a User Configuration Manager
+- 📁 [Ver proyecto de certificación](./012-build-a-user-configuration-manager)
+
 ### Progreso
 
 - [x] 001. Build a Report Card Printer
@@ -117,9 +124,11 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - [x] 009. Build a Pin Extractor
 - [x] 010. Build a Number Pattern Generator
 - [x] 011. Build a Medical Data Validator
-- [ ] 012. Próximo ejercicio
+- [x] 012. Build a User Configuration Manager
+- [ ] 013. Próximo ejercicio
 
 
 ### 🏆 Proyectos de certificación
 
-Los proyectos de certificación se agregarán en esta sección a medida que sean completados.
+#### 012. Build a User Configuration Manager
+- 📁 [Ver proyecto de certificación](./012-build-a-user-configuration-manager)
