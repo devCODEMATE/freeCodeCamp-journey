@@ -40,6 +40,9 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 #### 010. Build a Number Pattern Generator
 - 📁 [View lab](./010-build-a-number-pattern-generator)
 
+#### 011. Build a Medical Data Validator
+- 📁 [View workshop](./011-build-a-medical-data-validator)
+
 
 ### Progress
 
@@ -53,7 +56,8 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - [x] 008. Build an RPG Character
 - [x] 009. Build a Pin Extractor
 - [x] 010. Build a Number Pattern Generator
-- [ ] 011. Next exercise
+- [x] 011. Build a Medical Data Validator
+- [ ] 012. Next exercise
 
 ### 🏆 Certification Projects
 
@@ -97,6 +101,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 #### 010. Build a Number Pattern Generator
 - 📁 [Ver laboratorio](./010-build-a-number-pattern-generator)
 
+#### 011. Build a Medical Data Validator
+- 📁 [Ver workshop](./011-build-a-medical-data-validator)
+
 ### Progreso
 
 - [x] 001. Build a Report Card Printer
@@ -109,7 +116,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - [x] 008. Build an RPG Character
 - [x] 009. Build a Pin Extractor
 - [x] 010. Build a Number Pattern Generator
-- [ ] 011. Próximo ejercicio
+- [x] 011. Build a Medical Data Validator
+- [ ] 012. Próximo ejercicio
 
 
 ### 🏆 Proyectos de certificación
