@@ -46,6 +46,9 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 #### 012. Build a User Configuration Manager
 - 📁 [View certification project](./012-build-a-user-configuration-manager)
 
+#### 013. Debug an ISBN Validator
+- 📁 [View lab](./013-debug-an-isbn-validator)
+
 
 ### Progress
 
@@ -61,7 +64,8 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - [x] 010. Build a Number Pattern Generator
 - [x] 011. Build a Medical Data Validator
 - [x] 012. Build a User Configuration Manager
-- [ ] 013. Next exercise
+- [x] 013. Debug an ISBN Validator
+- [ ] 014. Next exercise
 
 ### 🏆 Certification Projects
 
@@ -111,6 +115,11 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 #### 012. Build a User Configuration Manager
 - 📁 [Ver proyecto de certificación](./012-build-a-user-configuration-manager)
 
+#### 013. Debug an ISBN Validator
+- 📁 [Ver laboratorio](./013-debug-an-isbn-validator)
+
+
+
 ### Progreso
 
 - [x] 001. Build a Report Card Printer
@@ -125,7 +134,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - [x] 010. Build a Number Pattern Generator
 - [x] 011. Build a Medical Data Validator
 - [x] 012. Build a User Configuration Manager
-- [ ] 013. Próximo ejercicio
+- [x] 013. Debug an ISBN Validator
+- [ ] 014. Próximo ejercicio
 
 
 ### 🏆 Proyectos de certificación
