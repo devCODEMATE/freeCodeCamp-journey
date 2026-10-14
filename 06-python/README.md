@@ -49,6 +49,9 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 #### 013. Debug an ISBN Validator
 - 📁 [View lab](./013-debug-an-isbn-validator)
 
+#### 014. Build a Musical Instrument Inventory
+- 📁 [View workshop](./014-build-a-musical-instrument-inventory)
+
 
 ### Progress
 
@@ -65,7 +68,8 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - [x] 011. Build a Medical Data Validator
 - [x] 012. Build a User Configuration Manager
 - [x] 013. Debug an ISBN Validator
-- [ ] 014. Next exercise
+- [x] 014. Build a Musical Instrument Inventory
+- [ ] 015. Next exercise
 
 ### 🏆 Certification Projects
 
@@ -118,6 +122,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 #### 013. Debug an ISBN Validator
 - 📁 [Ver laboratorio](./013-debug-an-isbn-validator)
 
+#### 014. Build a Musical Instrument Inventory
+- 📁 [Ver workshop](./014-build-a-musical-instrument-inventory)
+
 
 
 ### Progreso
@@ -135,7 +142,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - [x] 011. Build a Medical Data Validator
 - [x] 012. Build a User Configuration Manager
 - [x] 013. Debug an ISBN Validator
-- [ ] 014. Próximo ejercicio
+- [x] 014. Build a Musical Instrument Inventory
+- [ ] 015. Próximo ejercicio
 
 
 ### 🏆 Proyectos de certificación
