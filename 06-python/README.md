@@ -55,6 +55,9 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 #### 015. Build a Planet Class
 - 📁 [View lab](./015-build-a-planet-class)
 
+#### 016. Build an Email Simulator
+- 📁 [View workshop](./016-build-an-email-simulator)
+
 
 ### Progress
 
@@ -73,7 +76,8 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - [x] 013. Debug an ISBN Validator
 - [x] 014. Build a Musical Instrument Inventory
 - [x] 015. Build a Planet Class
-- [ ] 016. Next exercise
+- [x] 016. Build an Email Simulator
+- [ ] 017. Next exercise
 
 ### 🏆 Certification Projects
 
@@ -132,6 +136,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 #### 015. Build a Planet Class
 - 📁 [Ver laboratorio](./015-build-a-planet-class)
 
+#### 016. Build an Email Simulator
+- 📁 [Ver workshop](./016-build-an-email-simulator)
+
 
 
 ### Progreso
@@ -150,7 +157,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - [x] 012. Build a User Configuration Manager
 - [x] 013. Debug an ISBN Validator
 - [x] 014. Build a Musical Instrument Inventory
-- [ ] 015. Próximo ejercicio
+- [x] 016. Build an Email Simulator
+- [ ] 017. Próximo ejercicio
 
 
 ### 🏆 Proyectos de certificación
