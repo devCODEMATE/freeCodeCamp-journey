@@ -63,6 +63,9 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - 🏆 Certification project
 - 📁 [View certification project](./017-build-a-budget-app)
 
+#### 018. Build a Salary Tracker
+- 📁 [View workshop](./018-build-a-salary-tracker)
+
 
 ### Progress
 
@@ -83,7 +86,8 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - [x] 015. Build a Planet Class
 - [x] 016. Build an Email Simulator
 - [x] 017. Build a Budget App
-- [ ] 018. Next exercise
+- [x] 018. Build a Salary Tracker
+- [ ] 019. Next exercise
 
 ### 🏆 Certification Projects
 
@@ -155,6 +159,9 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - 🏆 Proyecto de certificación
 - 📁 [Ver proyecto](./017-build-a-budget-app)
 
+#### 018. Build a Salary Tracker
+- 📁 [Ver workshop](./018-build-a-salary-tracker)
+
 
 
 ### Progreso
@@ -175,7 +182,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - [x] 014. Build a Musical Instrument Inventory
 - [x] 016. Build an Email Simulator
 - [x] 017. Build a Budget App
-- [ ] 018. Próximo ejercicio
+- [x] 018. Build a Salary Tracker
+- [ ] 019. Próximo ejercicio
 
 
 ### 🏆 Proyectos de certificación
