@@ -66,6 +66,9 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 #### 018. Build a Salary Tracker
 - 📁 [View workshop](./018-build-a-salary-tracker)
 
+#### 019. Build a Game Character Stats Tracker
+- 📁 [View lab](./019-build-a-game-character-stats-tracker)
+
 
 ### Progress
 
@@ -87,7 +90,8 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - [x] 016. Build an Email Simulator
 - [x] 017. Build a Budget App
 - [x] 018. Build a Salary Tracker
-- [ ] 019. Next exercise
+- [x] 019. Build a Game Character Stats Tracker
+- [ ] 020. Next exercise
 
 ### 🏆 Certification Projects
 
@@ -162,6 +166,10 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 #### 018. Build a Salary Tracker
 - 📁 [Ver workshop](./018-build-a-salary-tracker)
 
+#### 019. Build a Game Character Stats Tracker
+- 📁 [Ver laboratorio](./019-build-a-game-character-stats-tracker)
+
+
 
 
 ### Progreso
@@ -183,7 +191,8 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - [x] 016. Build an Email Simulator
 - [x] 017. Build a Budget App
 - [x] 018. Build a Salary Tracker
-- [ ] 019. Próximo ejercicio
+- [x] 019. Build a Game Character Stats Tracker
+- [ ] 020. Próximo ejercicio
 
 
 ### 🏆 Proyectos de certificación
