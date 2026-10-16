@@ -44,6 +44,7 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - 📁 [View workshop](./011-build-a-medical-data-validator)
 
 #### 012. Build a User Configuration Manager
+- 🏆 Certification project
 - 📁 [View certification project](./012-build-a-user-configuration-manager)
 
 #### 013. Debug an ISBN Validator
@@ -57,6 +58,10 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 
 #### 016. Build an Email Simulator
 - 📁 [View workshop](./016-build-an-email-simulator)
+
+#### 017. Build a Budget App
+- 🏆 Certification project
+- 📁 [View certification project](./017-build-a-budget-app)
 
 
 ### Progress
@@ -77,12 +82,18 @@ Exercises, workshops, labs, and projects completed during the freeCodeCamp **Pyt
 - [x] 014. Build a Musical Instrument Inventory
 - [x] 015. Build a Planet Class
 - [x] 016. Build an Email Simulator
-- [ ] 017. Next exercise
+- [x] 017. Build a Budget App
+- [ ] 018. Next exercise
 
 ### 🏆 Certification Projects
 
 #### 012. Build a User Configuration Manager
+- 🏆 Certification project
 - 📁 [View certification project](./012-build-a-user-configuration-manager)
+
+#### 017. Build a Budget App
+- 🏆 Certification project
+- 📁 [View certification project](./017-build-a-budget-app)
 ---
 
 ## 🇪🇸 Español
@@ -125,6 +136,7 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - 📁 [Ver workshop](./011-build-a-medical-data-validator)
 
 #### 012. Build a User Configuration Manager
+- 🏆 Proyecto de certificación
 - 📁 [Ver proyecto de certificación](./012-build-a-user-configuration-manager)
 
 #### 013. Debug an ISBN Validator
@@ -138,6 +150,10 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 
 #### 016. Build an Email Simulator
 - 📁 [Ver workshop](./016-build-an-email-simulator)
+
+#### 017. Build a Budget App
+- 🏆 Proyecto de certificación
+- 📁 [Ver proyecto](./017-build-a-budget-app)
 
 
 
@@ -158,10 +174,14 @@ Ejercicios, workshops, laboratorios y proyectos realizados durante el módulo de
 - [x] 013. Debug an ISBN Validator
 - [x] 014. Build a Musical Instrument Inventory
 - [x] 016. Build an Email Simulator
-- [ ] 017. Próximo ejercicio
+- [x] 017. Build a Budget App
+- [ ] 018. Próximo ejercicio
 
 
 ### 🏆 Proyectos de certificación
 
 #### 012. Build a User Configuration Manager
 - 📁 [Ver proyecto de certificación](./012-build-a-user-configuration-manager)
+
+#### 017. Build a Budget App
+- 📁 [Ver proyecto de certificatón](./017-build-a-budget-app)
